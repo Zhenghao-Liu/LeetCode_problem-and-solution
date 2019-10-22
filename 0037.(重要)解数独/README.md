@@ -7,11 +7,11 @@
 数字 ```1-9``` 在每一个以粗实线分隔的 ```3x3``` 宫内只能出现一次。
 空白格用 ```'.'``` 表示。
 
-![](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/37.(重要)解数独/250px-Sudoku-by-L2G-20050714.svg.png)
+![](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/0037.(重要)解数独/250px-Sudoku-by-L2G-20050714.svg.png)
 
 一个数独。
 
-![](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/37.(重要)解数独/250px-Sudoku-by-L2G-20050714_solution.svg.png)
+![](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/0037.(重要)解数独/250px-Sudoku-by-L2G-20050714_solution.svg.png)
 
 答案被标成红色。
 
