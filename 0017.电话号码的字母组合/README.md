@@ -2,7 +2,7 @@
 
 给出数字到字母的映射如下（与电话按键相同）。注意 1 不对应任何字母。
 
- ![image](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/17.电话号码的字母组合/17_telephone_keypad.png)
+ ![image](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/0017.电话号码的字母组合/17_telephone_keypad.png)
 
 示例:
 
