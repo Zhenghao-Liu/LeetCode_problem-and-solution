@@ -6,7 +6,7 @@
 
 问总共有多少条不同的路径？
 
-![](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/62.%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84/robot_maze.png)
+![](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/0062.%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84/robot_maze.png)
 
 例如，上图是一个7 x 3 的网格。有多少可能的路径？
 
