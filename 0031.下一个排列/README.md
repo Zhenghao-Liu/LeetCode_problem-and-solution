@@ -1,4 +1,4 @@
-![](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/31.下一个排列/31.下一个排列英文题目.jpg)
+![](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/0031.下一个排列/31.下一个排列英文题目.jpg)
 `
 介于题目有点难读懂翻译一下  
 先找出最大的索引k满足nums[k] < nums[k+1],如果不存在,就翻转整个数组,结束;  
