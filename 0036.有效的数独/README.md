@@ -4,7 +4,7 @@
 数字 ```1-9``` 在每一列只能出现一次。
 数字 ```1-9``` 在每一个以粗实线分隔的 ```3x3``` 宫内只能出现一次。
 
-![](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/36.有效的数独/250px-Sudoku-by-L2G-20050714.svg.png)  
+![](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/0036.有效的数独/250px-Sudoku-by-L2G-20050714.svg.png)  
 上图是一个部分填充的有效的数独。
 
 数独部分空格内已填入了数字，空白格用 '.' 表示。
