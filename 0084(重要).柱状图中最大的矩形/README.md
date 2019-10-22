@@ -4,11 +4,11 @@
 
 求在该柱状图中，能够勾勒出来的矩形的最大面积。
 
-![image](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/84(重要).柱状图中最大的矩形/histogram.png)
+![image](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/0084(重要).柱状图中最大的矩形/histogram.png)
  
 以上是柱状图的示例，其中每个柱子的宽度为 1，给定的高度为 ```[2,1,5,6,2,3]```。
 
-![image](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/84(重要).柱状图中最大的矩形/histogram_area.png)
+![image](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/0084(重要).柱状图中最大的矩形/histogram_area.png)
 
 图中阴影部分为所能勾勒出的最大矩形面积，其面积为 ```10``` 个单位。
 
