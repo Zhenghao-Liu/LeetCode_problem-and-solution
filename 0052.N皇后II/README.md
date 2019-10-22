@@ -1,5 +1,5 @@
 n 皇后问题研究的是如何将 n 个皇后放置在 n×n 的棋盘上，并且使皇后彼此之间不能相互攻击。
-![](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/52.N皇后II/8-queens.png)
+![](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/0052.N皇后II/8-queens.png)
   
 上图为 8 皇后问题的一种解法。
 
