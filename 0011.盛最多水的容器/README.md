@@ -4,7 +4,7 @@
 
 图中垂直线代表输入数组 [1,8,6,2,5,4,8,3,7]。在此情况下，容器能够容纳水（表示为蓝色部分）的最大值为 49。
 
- ![image](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/11.盛最多水的容器/question_11.jpg)
+ ![image](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/0011.盛最多水的容器/question_11.jpg)
 
 示例:
 
