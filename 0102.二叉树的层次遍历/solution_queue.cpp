@@ -26,9 +26,9 @@ public:
                 p=queue_root.front();
                 answer.at(index).push_back(int(p->val));
                 if (p->left!=NULL)
-                    queue_root.push(queue_root.front()->left);
+                    queue_root.push(p->left);
                 if (p->right!=NULL)
-                    queue_root.push(queue_root.front()->right);
+                    queue_root.push(p->right);
                 queue_root.pop();
             }
         }
