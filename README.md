@@ -13,6 +13,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [84.柱状图中最大的矩形](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0084(重要).柱状图中最大的矩形)
 * [85.最大矩形](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0085(重要).最大矩形)
 * [88.合并两个有序数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0088.合并两个有序数组)
+* [145.二叉树的后序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0145.二叉树的后序遍历)
   
 ##### (一) 回溯
 * [37.解数独](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0037.(重要)解数独)  
@@ -101,3 +102,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [96.不同的二叉搜索树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0096(重要).不同的二叉搜索树)
 * [98.验证二叉搜索树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0098.验证二叉搜索树)
 * [99.恢复二叉搜索树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0099.恢复二叉搜索树)
+* [100.相同的树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0100.相同的树)
+* [101.对称二叉树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0101.对称二叉树)
+* [144.二叉树的前序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0144.二叉树的前序遍历)
+* [145.二叉树的后序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0145.二叉树的后序遍历)
