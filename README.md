@@ -68,6 +68,8 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [84.柱状图中最大的矩形](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0084(重要).柱状图中最大的矩形)
 * [85.最大矩形](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0085(重要).最大矩形)
 * [94.二叉树的中序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0094.二叉树的中序遍历)
+* [144.二叉树的前序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0144.二叉树的前序遍历)
+* [145.二叉树的后序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0145.二叉树的后序遍历)
 
 #### (七) 递归
 * [22.括号生成](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0022.括号生成)
@@ -109,3 +111,8 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [104.二叉树的最大深度](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0104.二叉树的最大深度)
 * [144.二叉树的前序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0144.二叉树的前序遍历)
 * [145.二叉树的后序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0145.二叉树的后序遍历)
+
+#### (十三) 队列
+* [102.二叉树的层次遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0102.二叉树的层次遍历)
+* [103.二叉树的锯齿形层次遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0103.二叉树的锯齿形层次遍历)
+* [104.二叉树的最大深度](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0104.二叉树的最大深度)
