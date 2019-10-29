@@ -85,6 +85,8 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [109.有序链表转换二叉搜索树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0109.有序链表转换二叉搜索树)
 * [110.平衡二叉树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0110.平衡二叉树)
 * [111.二叉树的最小深度](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0111.二叉树的最小深度)
+* [112.路径总和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0112.路径总和)
+* [113.路径总和II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0113.路径总和II)
 
 #### (八) 矩阵
 * [48.旋转图像](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0048.旋转图像)
@@ -123,6 +125,8 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [109.有序链表转换二叉搜索树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0109.有序链表转换二叉搜索树)
 * [110.平衡二叉树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0110.平衡二叉树)
 * [111.二叉树的最小深度](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0111.二叉树的最小深度)
+* [112.路径总和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0112.路径总和)
+* [113.路径总和II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0113.路径总和II)
 * [144.二叉树的前序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0144.二叉树的前序遍历)
 * [145.二叉树的后序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0145.二叉树的后序遍历)
 
