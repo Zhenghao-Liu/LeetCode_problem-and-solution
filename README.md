@@ -13,6 +13,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [84.柱状图中最大的矩形](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0084(重要).柱状图中最大的矩形)
 * [85.最大矩形](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0085(重要).最大矩形)
 * [88.合并两个有序数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0088.合并两个有序数组)
+* [114.二叉树展开为链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0114.二叉树展开为链表)
 * [145.二叉树的后序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0145.二叉树的后序遍历)
   
 ##### (一) 回溯
@@ -38,6 +39,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [91.解码方法](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0091.解码方法)
 * [96.不同的二叉搜索树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0096(重要).不同的二叉搜索树)
 * [97.交错字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0097(重要).交错字符串)
+* [115.不同的子序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0115.不同的子序列)
 
 #### (三) 左右双指针
 * [15.三数之和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0015.三数之和)
@@ -87,6 +89,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [111.二叉树的最小深度](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0111.二叉树的最小深度)
 * [112.路径总和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0112.路径总和)
 * [113.路径总和II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0113.路径总和II)
+* [114.二叉树展开为链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0114.二叉树展开为链表)
 
 #### (八) 矩阵
 * [48.旋转图像](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0048.旋转图像)
@@ -127,6 +130,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [111.二叉树的最小深度](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0111.二叉树的最小深度)
 * [112.路径总和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0112.路径总和)
 * [113.路径总和II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0113.路径总和II)
+* [114.二叉树展开为链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0114.二叉树展开为链表)
 * [144.二叉树的前序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0144.二叉树的前序遍历)
 * [145.二叉树的后序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0145.二叉树的后序遍历)
 
