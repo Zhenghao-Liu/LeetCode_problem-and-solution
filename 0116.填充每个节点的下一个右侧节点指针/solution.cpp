@@ -29,6 +29,7 @@ public:
         root->left->next=root->right;
         if (root->next!=NULL)
             root->right->next=root->next->left;
+        //当所有节点的next都默认初始化为NULL时可以省去else(这里就可以删掉else)
         else
             root->right->next=NULL;
         connect(root->left);
