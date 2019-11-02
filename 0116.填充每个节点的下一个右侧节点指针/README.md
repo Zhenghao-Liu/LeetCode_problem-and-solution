@@ -1,3 +1,5 @@
+* [推荐题解](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/solution/di-gui-he-die-dai-by-powcai-4/)
+
 给定一个**完美二叉树**，其所有叶子节点都在同一层，每个父节点都有两个子节点。二叉树定义如下：
 ```
 struct Node {
