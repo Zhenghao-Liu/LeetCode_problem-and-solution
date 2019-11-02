@@ -13,7 +13,7 @@ struct Node {
 
 **示例：**
 
-![](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/0117.填充每个节点的下一个右侧节点指针II/117_sample.png)
+![](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/0117.%E5%A1%AB%E5%85%85%E6%AF%8F%E4%B8%AA%E8%8A%82%E7%82%B9%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8F%B3%E4%BE%A7%E8%8A%82%E7%82%B9%E6%8C%87%E9%92%88II/117_sample.png)
 
 ```
 输入：{"$id":"1","left":{"$id":"2","left":{"$id":"3","left":null,"next":null,"right":null,"val":4},"next":null,"right":{"$id":"4","left":null,"next":null,"right":null,"val":5},"val":2},"next":null,"right":{"$id":"5","left":null,"next":null,"right":{"$id":"6","left":null,"next":null,"right":null,"val":7},"val":3},"val":1}
