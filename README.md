@@ -40,6 +40,8 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [96.不同的二叉搜索树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0096(重要).不同的二叉搜索树)
 * [97.交错字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0097(重要).交错字符串)
 * [115.不同的子序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0115.不同的子序列)
+* [118.杨辉三角]((https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0118.杨辉三角)
+* [119.杨辉三角II]((https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0119.杨辉三角II)
 
 #### (三) 左右双指针
 * [15.三数之和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0015.三数之和)
