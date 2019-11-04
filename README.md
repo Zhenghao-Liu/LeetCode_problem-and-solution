@@ -42,6 +42,8 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [115.不同的子序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0115.不同的子序列)
 * [118.杨辉三角](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0118.杨辉三角)
 * [119.杨辉三角II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0119.杨辉三角II)
+* [120.三角形最小路径和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0120(重要).三角形最小路径和)
+* [121.买卖股票的最佳时机](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0121(重要).买卖股票的最佳时机)
 
 #### (三) 左右双指针
 * [15.三数之和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0015.三数之和)
