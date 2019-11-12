@@ -53,6 +53,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [18.四数之和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0018.四数之和)
 * [75.颜色分类](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0075.颜色分类)
 * [125.验证回文串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0125.验证回文串)
+* [131.分割回文串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0131.分割回文串)
 
 #### (四) 快慢指针
 * [19.删除链表的倒数第N个节点](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0019.删除链表的倒数第N个节点)
@@ -100,6 +101,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [116.填充每个节点的下一个右侧节点指针](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0116.填充每个节点的下一个右侧节点指针)
 * [124.二叉树中的最大路径和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0124(重要).二叉树中的最大路径和)
 * [129.求根到叶子节点数字之和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0129.求根到叶子节点数字之和)
+* [131.分割回文串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0131.分割回文串)
 
 #### (八) 矩阵
 * [48.旋转图像](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0048.旋转图像)
@@ -163,6 +165,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 #### (十五) 图
 * [(未解决)126.单词接龙II](https://leetcode-cn.com/problems/word-ladder-ii/)
 * [(未解决)127.单词接龙](https://leetcode-cn.com/problems/word-ladder/)
+* [130.被围绕的区域](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0130.被围绕的区域])
 
 #### (十六) 哈希表
 * [128.最长连续序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0128(重要).最长连续序列)
