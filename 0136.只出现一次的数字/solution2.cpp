@@ -1,3 +1,8 @@
+/*
+* 把数字存进哈希表中
+* 若已经存在则删除
+* 最后留下的一个即只出现一次的数字
+*/
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
