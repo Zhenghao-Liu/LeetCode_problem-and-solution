@@ -15,6 +15,9 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [88.合并两个有序数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0088.合并两个有序数组)
 * [114.二叉树展开为链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0114.二叉树展开为链表)
 * [122.买卖股票的最佳时机II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0122.买卖股票的最佳时机II)
+* [134.加油站](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0134.加油站)
+* [135.分发糖果](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0135.分发糖果)
+* [136.只出现一次的数字](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0136.只出现一次的数字)
 * [145.二叉树的后序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0145.二叉树的后序遍历)
   
 ##### (一) 回溯
