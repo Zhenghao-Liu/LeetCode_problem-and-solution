@@ -175,6 +175,9 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 #### (十六) 哈希表
 * [128.最长连续序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0128(重要).最长连续序列)
 * [133.克隆图](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0133(重要).克隆图)
+* [138.复制带随机指针的链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0138.复制带随机指针的链表)
 
 #### (十七) 集合
 * [128.最长连续序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0128(重要).最长连续序列)
+* [136.只出现一次的数字](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0136.只出现一次的数字)
+* [137.只出现一次的数字II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0137.只出现一次的数字II)
