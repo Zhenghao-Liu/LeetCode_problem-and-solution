@@ -50,6 +50,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [121.买卖股票的最佳时机](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0121(重要).买卖股票的最佳时机)
 * [123.买卖股票的最佳时机III](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0123.买卖股票的最佳时机III)
 * [132.分割回文串II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0132(重要).分割回文串II)
+* [139.单词拆分](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0139.单词拆分)
 
 #### (三) 左右双指针
 * [15.三数之和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0015.三数之和)
