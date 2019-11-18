@@ -28,6 +28,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [79.单词搜索](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0079.单词搜索)
 * [90.子集II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0090.子集II)
 * [93.复原IP地址](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0093.复原IP地址)
+* [140.单词拆分II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0140.单词拆分II)
   
 ##### (二) 动态规划
 * [10.正则表达式匹配](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0010.(重要)正则表达式匹配)  
@@ -182,3 +183,5 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [128.最长连续序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0128(重要).最长连续序列)
 * [136.只出现一次的数字](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0136.只出现一次的数字)
 * [137.只出现一次的数字II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0137.只出现一次的数字II)
+* [139.单词拆分](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0139.单词拆分)
+* [140.单词拆分II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0140.单词拆分II)
