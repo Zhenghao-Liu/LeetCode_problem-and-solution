@@ -1,3 +1,4 @@
+//如果有环，那么快的指针迟早会和慢的指针相遇
 /**
  * Definition for singly-linked list.
  * struct ListNode {
