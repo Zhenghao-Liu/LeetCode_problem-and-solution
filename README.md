@@ -72,6 +72,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [86.分隔链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0086.分隔链表)
 * [109.有序链表转换二叉搜索树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0109.有序链表转换二叉搜索树)
 * [141.环形链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0141.环形链表)
+* [142.环形链表II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0142.环形链表II)
 
 #### (五) 折半查找
 * [34.在排序数组中查找元素的第一个和最后一个位置](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0034.在排序数组中查找元素的第一个和最后一个位置)
@@ -188,3 +189,4 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [139.单词拆分](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0139.单词拆分)
 * [140.单词拆分II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0140.单词拆分II)
 * [141.环形链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0141.环形链表)
+* [142.环形链表II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0142.环形链表II)
