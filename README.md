@@ -119,8 +119,9 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [73.矩阵置零](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0073.矩阵置零)
 
 #### (九) 排序
-* [75.颜色分类](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0075.颜色分类)
-* [147.对链表进行插入排序](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0147.对链表进行插入排序)
+* [75.颜色分类(快速排序/三色排序)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0075.颜色分类)
+* [147.对链表进行插入排序(插入排序)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0147.对链表进行插入排序)
+* [148.排序链表(堆排序/归并排序)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0148.排序链表)
 
 #### (十) 滑动窗口
 * [03.无重复字符的最长子串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0003(重要).无重复字符的最长子串)
