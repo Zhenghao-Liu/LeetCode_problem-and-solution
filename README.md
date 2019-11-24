@@ -90,6 +90,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [94.二叉树的中序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0094.二叉树的中序遍历)
 * [144.二叉树的前序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0144.二叉树的前序遍历)
 * [145.二叉树的后序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0145.二叉树的后序遍历)
+* [150.逆波兰表达式求值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0150.逆波兰表达式求值)
 
 #### (七) 递归
 * [22.括号生成](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0022.括号生成)
