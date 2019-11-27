@@ -92,6 +92,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [144.二叉树的前序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0144.二叉树的前序遍历)
 * [145.二叉树的后序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0145.二叉树的后序遍历)
 * [150.逆波兰表达式求值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0150.逆波兰表达式求值)
+* [155.最小栈](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0155.最小栈)
 
 #### (七) 递归
 * [22.括号生成](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0022.括号生成)
@@ -130,10 +131,12 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [30.串联所有单词的子串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0030.(重要)串联所有单词的子串)
 * [76.最小覆盖子串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0076(重要).最小覆盖子串)
 
-#### (十一) 二分法
+#### (十一) 二分法/分治
 * [33.搜索旋转排序数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0033.搜索旋转排序数组)
 * [81.搜索旋转排序数组II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0081.搜索旋转排序数组II)
 * [84.柱状图中最大的矩形](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0084(重要).柱状图中最大的矩形)
+* [153.寻找旋转排序数组中的最小值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0153.寻找旋转排序数组中的最小值)
+* [154.寻找旋转排序数组中的最小值II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0154.寻找旋转排序数组中的最小值II)
 
 #### (十二) 树
 * [94.二叉树的中序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0094.二叉树的中序遍历)
