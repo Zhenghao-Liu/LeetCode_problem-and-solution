@@ -20,6 +20,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [136.只出现一次的数字](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0136.只出现一次的数字)
 * [141.环形链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0141.环形链表)
 * [145.二叉树的后序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0145.二叉树的后序遍历)
+* [162.寻找峰值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0162.寻找峰值)
   
 ##### (一) 回溯
 * [37.解数独](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0037.(重要)解数独)  
@@ -80,7 +81,8 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [35.搜索插入位置](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0035.搜索插入位置)
 * [57.插入区间](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0057.插入区间)
 * [69.x的平方根](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0069.x的平方根)
-* [74.搜索二维矩阵](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0074.搜索二维矩阵) 
+* [74.搜索二维矩阵](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0074.搜索二维矩阵)
+* [162.寻找峰值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0162.寻找峰值)
 
 #### (六) 栈
 * [20.有效的括号](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0020.有效的括号)
