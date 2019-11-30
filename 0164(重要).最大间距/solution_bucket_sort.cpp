@@ -1,3 +1,4 @@
+//看下桶排序题解的数学推论，最后结果就是最大间距一定出现在各个桶之间不在桶里面，所以只用记录桶的最大值和最小值即可
 class Solution {
     struct bucket{
         int max_num=INT_MIN;
