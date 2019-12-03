@@ -21,6 +21,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [141.环形链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0141.环形链表)
 * [145.二叉树的后序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0145.二叉树的后序遍历)
 * [162.寻找峰值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0162.寻找峰值)
+* [169.多数元素(摩尔投票法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0169.多数元素)
   
 ##### (一) 回溯
 * [37.解数独](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0037.(重要)解数独)  
@@ -192,6 +193,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [128.最长连续序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0128(重要).最长连续序列)
 * [133.克隆图](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0133(重要).克隆图)
 * [138.复制带随机指针的链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0138.复制带随机指针的链表)
+* [169.多数元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0169.多数元素)
 
 #### (十七) 集合
 * [128.最长连续序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0128(重要).最长连续序列)
