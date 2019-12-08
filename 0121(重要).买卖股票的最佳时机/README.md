@@ -1,4 +1,5 @@
 * [个人题解](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/solution/yi-ci-bian-li-dong-tai-gui-hua-by-lzh_yves/)
+* [状态机题解(强推)](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/solution/yi-ge-fang-fa-tuan-mie-6-dao-gu-piao-wen-ti-by-l-3/)
 
 给定一个数组，它的第 i 个元素是一支给定股票第 i 天的价格。
 
