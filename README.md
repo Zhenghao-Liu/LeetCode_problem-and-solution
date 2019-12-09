@@ -89,6 +89,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 
 #### (六) 栈
 * [20.有效的括号](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0020.有效的括号)
+* [25.K个一组翻转链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0025.K个一组翻转链表)
 * [32.最长有效括号](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0032.最长有效括号)
 * [71.简化路径](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0071.简化路径)
 * [84.柱状图中最大的矩形](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0084(重要).柱状图中最大的矩形)
@@ -101,6 +102,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 
 #### (七) 递归
 * [22.括号生成](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0022.括号生成)
+* [24.两两交换链表中的节点](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0024.两两交换链表中的节点)
 * [46.全排列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0046.全排列)
 * [47.全排列II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0047.全排列II)
 * [87.扰乱字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0087.扰乱字符串)
@@ -192,6 +194,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [133.克隆图](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0133(重要).克隆图)
 
 #### (十六) 哈希表
+* [30.串联所有单词的子串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0030.串联所有单词的子串)
 * [128.最长连续序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0128(重要).最长连续序列)
 * [133.克隆图](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0133(重要).克隆图)
 * [138.复制带随机指针的链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0138.复制带随机指针的链表)
@@ -207,3 +210,9 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [141.环形链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0141.环形链表)
 * [142.环形链表II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0142.环形链表II)
 * [160.相交链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0160.相交链表)
+
+#### (十八) 状态机
+* [121.买卖股票的最佳时机](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0121(重要).买卖股票的最佳时机)
+* [122.买卖股票的最佳时机II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0122.买卖股票的最佳时机II)
+* [123.买卖股票的最佳时机III](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0123.买卖股票的最佳时机III)
+* [188.买卖股票的最佳时机IV(有笔记)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0188(重要).买卖股票的最佳时机IV)
