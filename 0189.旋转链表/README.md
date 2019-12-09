@@ -1,3 +1,6 @@
+* [官方题解](https://leetcode-cn.com/problems/rotate-array/solution/xuan-zhuan-shu-zu-by-leetcode/)
+* [环装替换题解](https://leetcode-cn.com/problems/rotate-array/solution/huan-zhuang-ti-huan-16ms-9910-by-zyj-18/)
+
 给定一个数组，将数组中的元素向右移动 k 个位置，其中 k 是非负数。
 
 **示例 1:**
