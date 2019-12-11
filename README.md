@@ -80,6 +80,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [109.有序链表转换二叉搜索树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0109.有序链表转换二叉搜索树)
 * [141.环形链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0141.环形链表)
 * [142.环形链表II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0142.环形链表II)
+* [202.快乐数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0202.快乐数)
 
 #### (五) 折半查找
 * [34.在排序数组中查找元素的第一个和最后一个位置](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0034.在排序数组中查找元素的第一个和最后一个位置)
@@ -217,6 +218,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [160.相交链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0160.相交链表)
 * [190.颠倒二进制位](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0190.颠倒二进制位)
 * [191.位1的个数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0191.位1的个数)
+* [202.快乐数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0202.快乐数)
 
 #### (十八) 状态机
 * [121.买卖股票的最佳时机](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0121(重要).买卖股票的最佳时机)
