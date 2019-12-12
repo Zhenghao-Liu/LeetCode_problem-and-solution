@@ -23,6 +23,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [162.寻找峰值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0162.寻找峰值)
 * [169.多数元素(摩尔投票法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0169.多数元素)
 * [201.数字范围按位与(左移右移)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0201.数字范围按位与)
+* [204.计数质数(厄拉多塞筛法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0204.计数质数)
   
 ##### (一) 回溯
 * [37.解数独](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0037.(重要)解数独)  
