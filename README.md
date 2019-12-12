@@ -207,6 +207,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [138.复制带随机指针的链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0138.复制带随机指针的链表)
 * [169.多数元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0169.多数元素)
 * [187.重复的DNA序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0187.重复的DNA序列)
+* [205.同构字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0205.同构字符串)
 
 #### (十七) 集合
 * [128.最长连续序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0128(重要).最长连续序列)
