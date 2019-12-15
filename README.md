@@ -144,6 +144,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [03.无重复字符的最长子串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0003(重要).无重复字符的最长子串)
 * [30.串联所有单词的子串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0030.(重要)串联所有单词的子串)
 * [76.最小覆盖子串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0076(重要).最小覆盖子串)
+* [209.长度最小的子数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0209.长度最小的子数组)
 
 #### (十一) 二分法/分治
 * [33.搜索旋转排序数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0033.搜索旋转排序数组)
@@ -181,6 +182,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [145.二叉树的后序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0145.二叉树的后序遍历)
 * [173.二叉搜索树迭代器](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0173.二叉搜索树迭代器)
 * [199.二叉树的右视图](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0199.二叉树的右视图)
+* [208.实现Trie(前缀树)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0208(重要).实现Trie(前缀树))
 
 #### (十三) 队列
 * [102.二叉树的层次遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0102.二叉树的层次遍历)
