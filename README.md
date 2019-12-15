@@ -60,6 +60,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [152.乘积最大子序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0152(重要).乘积最大子序列)
 * [174.地下城游戏](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0174.地下城游戏)
 * [198.打家劫舍](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0198.打家劫舍)
+* [211.添加与搜索单词 - 数据结构设计](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0211(重要).添加与搜索单词%20-%20数据结构设计)
 
 #### (三) 左右双指针
 * [15.三数之和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0015.三数之和)
@@ -184,6 +185,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [173.二叉搜索树迭代器](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0173.二叉搜索树迭代器)
 * [199.二叉树的右视图](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0199.二叉树的右视图)
 * [208.实现Trie(前缀树)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0208(重要).实现Trie(前缀树))
+* [211.添加与搜索单词 - 数据结构设计(使用前缀树)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0211(重要).添加与搜索单词%20-%20数据结构设计)
 
 #### (十三) 队列
 * [102.二叉树的层次遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0102.二叉树的层次遍历)
