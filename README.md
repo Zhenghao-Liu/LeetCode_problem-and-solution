@@ -110,6 +110,8 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 #### (七) 递归
 * [22.括号生成](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0022.括号生成)
 * [24.两两交换链表中的节点](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0024.两两交换链表中的节点)
+* [39.组合总和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0039.组合总和(重要))
+* [40.组合总和II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0040.组合总和II(重要))
 * [46.全排列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0046.全排列)
 * [47.全排列II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0047.全排列II)
 * [87.扰乱字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0087.扰乱字符串)
@@ -129,6 +131,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [129.求根到叶子节点数字之和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0129.求根到叶子节点数字之和)
 * [131.分割回文串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0131.分割回文串)
 * [206.反转链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0206.反转链表)
+* [216.组合总和III](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0216.组合总和III)
 
 #### (八) 矩阵
 * [48.旋转图像](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0048.旋转图像)
@@ -222,6 +225,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [169.多数元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0169.多数元素)
 * [187.重复的DNA序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0187.重复的DNA序列)
 * [205.同构字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0205.同构字符串)
+* [217.存在重复元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0217.存在重复元素)
 
 #### (十七) 集合
 * [128.最长连续序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0128(重要).最长连续序列)
