@@ -153,6 +153,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [30.串联所有单词的子串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0030.(重要)串联所有单词的子串)
 * [76.最小覆盖子串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0076(重要).最小覆盖子串)
 * [209.长度最小的子数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0209.长度最小的子数组)
+* [220.存在重复元素III](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0220.存在重复元素III)
 
 #### (十一) 二分法/分治
 * [33.搜索旋转排序数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0033.搜索旋转排序数组)
@@ -218,7 +219,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [207.课程表(检测有向图有无环)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0207.课程表)
 * [210.课程表II(检测有向图有无环)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0210.课程表II)
 
-#### (十六) 哈希表
+#### (十六) 哈希表MAP
 * [30.串联所有单词的子串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0030.串联所有单词的子串)
 * [128.最长连续序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0128(重要).最长连续序列)
 * [133.克隆图](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0133(重要).克隆图)
@@ -228,8 +229,9 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [205.同构字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0205.同构字符串)
 * [217.存在重复元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0217.存在重复元素)
 * [219.存在重复元素II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0219.存在重复元素II)
+* [218.天际线问题(multimap)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0218.天际线问题)
 
-#### (十七) 集合
+#### (十七) 集合SET
 * [128.最长连续序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0128(重要).最长连续序列)
 * [136.只出现一次的数字](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0136.只出现一次的数字)
 * [137.只出现一次的数字II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0137.只出现一次的数字II)
@@ -241,6 +243,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [190.颠倒二进制位](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0190.颠倒二进制位)
 * [191.位1的个数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0191.位1的个数)
 * [202.快乐数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0202.快乐数)
+* [220.存在重复元素III](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0220.存在重复元素III)
 
 #### (十八) 状态机
 * [121.买卖股票的最佳时机](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0121(重要).买卖股票的最佳时机)
