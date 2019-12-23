@@ -25,6 +25,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [201.数字范围按位与(左移右移)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0201.数字范围按位与)
 * [204.计数质数(厄拉多塞筛法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0204.计数质数)
 * [214.最短回文串(KMP中的prefix_table)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0214(重要).最短回文串)
+* [218.天际线问题(multimap)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0218.天际线问题)
   
 ##### (一) 回溯
 * [37.解数独](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0037.(重要)解数独)  
@@ -226,6 +227,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [187.重复的DNA序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0187.重复的DNA序列)
 * [205.同构字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0205.同构字符串)
 * [217.存在重复元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0217.存在重复元素)
+* [219.存在重复元素II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0219.存在重复元素II)
 
 #### (十七) 集合
 * [128.最长连续序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0128(重要).最长连续序列)
