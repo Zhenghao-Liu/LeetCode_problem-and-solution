@@ -195,6 +195,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [208.实现Trie(前缀树)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0208(重要).实现Trie(前缀树))
 * [211.添加与搜索单词 - 数据结构设计(使用前缀树)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0211(重要).添加与搜索单词%20-%20数据结构设计)
 * [212.单词搜索II(使用前缀树)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0212.单词搜索II)
+* [222.完全二叉树的节点个数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0222.完全二叉树的节点个数)
 
 #### (十三) 队列
 * [102.二叉树的层次遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0102.二叉树的层次遍历)
