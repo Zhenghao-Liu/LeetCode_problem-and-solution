@@ -135,6 +135,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [131.分割回文串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0131.分割回文串)
 * [206.反转链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0206.反转链表)
 * [216.组合总和III](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0216.组合总和III)
+* [226.翻转二叉树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0226.翻转二叉树)
 
 #### (八) 矩阵
 * [48.旋转图像](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0048.旋转图像)
@@ -197,6 +198,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [211.添加与搜索单词 - 数据结构设计(使用前缀树)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0211(重要).添加与搜索单词%20-%20数据结构设计)
 * [212.单词搜索II(使用前缀树)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0212.单词搜索II)
 * [222.完全二叉树的节点个数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0222.完全二叉树的节点个数)
+* [226.翻转二叉树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0226.翻转二叉树)
 
 #### (十三) 队列
 * [102.二叉树的层次遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0102.二叉树的层次遍历)
@@ -206,6 +208,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [111.二叉树的最小深度](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0111.二叉树的最小深度)
 * [199.二叉树的右视图](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0199.二叉树的右视图)
 * [215.数组中的第K个最大元素(优先队列)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0215.数组中的第K个最大元素)
+* [225.用队列实现栈](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0225.用队列实现栈)
 
 #### (十四) 迭代
 * [114.二叉树展开为链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0114.二叉树展开为链表)
