@@ -26,6 +26,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [204.计数质数(厄拉多塞筛法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0204.计数质数)
 * [214.最短回文串(KMP中的prefix_table)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0214(重要).最短回文串)
 * [218.天际线问题(multimap)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0218.天际线问题)
+* [229.求众数II(摩尔投票法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0229.求众数II)
   
 ##### (一) 回溯
 * [37.解数独](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0037.(重要)解数独)  
@@ -111,6 +112,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [155.最小栈](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0155.最小栈)
 * [224.基本计算器](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0224.基本计算器)
 * [227.基本计算器II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0227.基本计算器II)
+* [230.二叉搜索树中的第K小的元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0230.二叉搜索树中的第K小的元素)
 
 #### (七) 递归
 * [22.括号生成](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0022.括号生成)
@@ -201,6 +203,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [212.单词搜索II(使用前缀树)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0212.单词搜索II)
 * [222.完全二叉树的节点个数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0222.完全二叉树的节点个数)
 * [226.翻转二叉树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0226.翻转二叉树)
+* [230.二叉搜索树中的第K小的元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0230.二叉搜索树中的第K小的元素)
 
 #### (十三) 队列
 * [102.二叉树的层次遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0102.二叉树的层次遍历)
