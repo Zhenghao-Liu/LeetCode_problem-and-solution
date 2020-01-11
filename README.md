@@ -113,6 +113,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [224.基本计算器](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0224.基本计算器)
 * [227.基本计算器II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0227.基本计算器II)
 * [230.二叉搜索树中的第K小的元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0230.二叉搜索树中的第K小的元素)
+* [232.用栈实现队列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0232.用栈实现队列)
 
 #### (七) 递归
 * [22.括号生成](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0022.括号生成)
