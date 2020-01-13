@@ -142,6 +142,8 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [206.反转链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0206.反转链表)
 * [216.组合总和III](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0216.组合总和III)
 * [226.翻转二叉树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0226.翻转二叉树)
+* [235.二叉搜索树的最近公共祖先](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0235.二叉搜索树的最近公共祖先)
+* [236.二叉树的最近公共祖先](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0236.二叉树的最近公共祖先)
 
 #### (八) 矩阵
 * [48.旋转图像](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0048.旋转图像)
@@ -206,6 +208,8 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [222.完全二叉树的节点个数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0222.完全二叉树的节点个数)
 * [226.翻转二叉树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0226.翻转二叉树)
 * [230.二叉搜索树中的第K小的元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0230.二叉搜索树中的第K小的元素)
+* [235.二叉搜索树的最近公共祖先](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0235.二叉搜索树的最近公共祖先)
+* [236.二叉树的最近公共祖先](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0236.二叉树的最近公共祖先)
 
 #### (十三) 队列
 * [102.二叉树的层次遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0102.二叉树的层次遍历)
@@ -243,6 +247,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [217.存在重复元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0217.存在重复元素)
 * [219.存在重复元素II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0219.存在重复元素II)
 * [218.天际线问题(multimap)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0218.天际线问题)
+* [236.二叉树的最近公共祖先](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0236.二叉树的最近公共祖先)
 
 #### (十七) 集合SET
 * [128.最长连续序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0128(重要).最长连续序列)
