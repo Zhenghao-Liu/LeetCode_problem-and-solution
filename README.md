@@ -146,6 +146,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [226.翻转二叉树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0226.翻转二叉树)
 * [235.二叉搜索树的最近公共祖先](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0235.二叉搜索树的最近公共祖先)
 * [236.二叉树的最近公共祖先](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0236.二叉树的最近公共祖先)
+* [241.为运算表达式设计优先级](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0241(重要).为运算表达式设计优先级)
 
 #### (八) 矩阵
 * [48.旋转图像](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0048.旋转图像)
@@ -174,6 +175,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [84.柱状图中最大的矩形](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0084(重要).柱状图中最大的矩形)
 * [153.寻找旋转排序数组中的最小值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0153.寻找旋转排序数组中的最小值)
 * [154.寻找旋转排序数组中的最小值II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0154.寻找旋转排序数组中的最小值II)
+* [241.为运算表达式设计优先级](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0241(重要).为运算表达式设计优先级)
 
 #### (十二) 树
 * [94.二叉树的中序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0094.二叉树的中序遍历)
@@ -251,6 +253,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [219.存在重复元素II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0219.存在重复元素II)
 * [218.天际线问题(multimap)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0218.天际线问题)
 * [236.二叉树的最近公共祖先](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0236.二叉树的最近公共祖先)
+* [242.有效的字母异位词](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0242.有效的字母异位词)
 
 #### (十七) 集合SET
 * [128.最长连续序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0128(重要).最长连续序列)
