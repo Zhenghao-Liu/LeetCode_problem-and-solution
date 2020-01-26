@@ -22,7 +22,6 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [145.二叉树的后序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0145.二叉树的后序遍历)
 * [162.寻找峰值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0162.寻找峰值)
 * [169.多数元素(摩尔投票法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0169.多数元素)
-* [201.数字范围按位与(左移右移)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0201.数字范围按位与)
 * [204.计数质数(厄拉多塞筛法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0204.计数质数)
 * [214.最短回文串(KMP中的prefix_table)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0214(重要).最短回文串)
 * [218.天际线问题(multimap)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0218.天际线问题)
@@ -269,9 +268,16 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [202.快乐数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0202.快乐数)
 * [220.存在重复元素III](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0220.存在重复元素III)
 * [239.滑动窗口最大值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0239.滑动窗口最大值)
+* [260.只出现一次的数字III](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0260.只出现一次的数字III)
 
 #### (十八) 状态机
 * [121.买卖股票的最佳时机](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0121(重要).买卖股票的最佳时机)
 * [122.买卖股票的最佳时机II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0122.买卖股票的最佳时机II)
 * [123.买卖股票的最佳时机III](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0123.买卖股票的最佳时机III)
 * [188.买卖股票的最佳时机IV(有笔记)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0188(重要).买卖股票的最佳时机IV)
+
+#### (十九) 位运算
+* [136.只出现一次的数字](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0136.只出现一次的数字)
+* [137.只出现一次的数字II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0137.只出现一次的数字II)
+* [201.数字范围按位与(左移右移)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0201.数字范围按位与)
+* [260.只出现一次的数字III](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0260.只出现一次的数字III)
