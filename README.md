@@ -67,6 +67,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [213.打家劫舍II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0213.打家劫舍II)
 * [221.最大正方形](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0221.最大正方形)
 * [239.滑动窗口最大值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0239.滑动窗口最大值)
+* [264.丑数II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0264.丑数II)
 
 #### (三) 左右双指针
 * [15.三数之和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0015.三数之和)
@@ -224,6 +225,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [215.数组中的第K个最大元素(优先队列)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0215.数组中的第K个最大元素)
 * [225.用队列实现栈](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0225.用队列实现栈)
 * [239.滑动窗口最大值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0239.滑动窗口最大值)
+* [264.丑数II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0264.丑数II)
 
 #### (十四) 迭代
 * [114.二叉树展开为链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0114.二叉树展开为链表)
