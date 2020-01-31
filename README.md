@@ -93,13 +93,14 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [202.快乐数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0202.快乐数)
 * [234.回文链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0234.回文链表)
 
-#### (五) 折半查找
+#### (五) 折半查找/二分查找
 * [34.在排序数组中查找元素的第一个和最后一个位置](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0034.在排序数组中查找元素的第一个和最后一个位置)
 * [35.搜索插入位置](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0035.搜索插入位置)
 * [57.插入区间](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0057.插入区间)
 * [69.x的平方根](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0069.x的平方根)
 * [74.搜索二维矩阵](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0074.搜索二维矩阵)
 * [162.寻找峰值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0162.寻找峰值)
+* [275.H指数II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0275.H指数II)
 
 #### (六) 栈
 * [20.有效的括号](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0020.有效的括号)
