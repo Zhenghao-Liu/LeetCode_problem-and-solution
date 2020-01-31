@@ -101,6 +101,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [74.搜索二维矩阵](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0074.搜索二维矩阵)
 * [162.寻找峰值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0162.寻找峰值)
 * [275.H指数II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0275.H指数II)
+* [278.第一个错误的版本](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0278.第一个错误的版本)
 
 #### (六) 栈
 * [20.有效的括号](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0020.有效的括号)
