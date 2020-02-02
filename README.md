@@ -68,6 +68,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [221.最大正方形](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0221.最大正方形)
 * [239.滑动窗口最大值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0239.滑动窗口最大值)
 * [264.丑数II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0264.丑数II)
+* [279.完全平方数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0279(重要).完全平方数)
 
 #### (三) 左右双指针
 * [15.三数之和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0015.三数之和)
