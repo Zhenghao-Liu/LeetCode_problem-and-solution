@@ -1,3 +1,11 @@
+/*
+1. 按照+-*顺序来写就可以，别被评论那个人坑了
+2. 注意乘法，所以要两个变量，一个val，一个past_val
+3. 注意是不能有“001”“00”“09”这种前面有0的情况的，所以在循环一次+-*后，判断一下当前数字是否是0
+4. C++中str+=new_str快且节省于str=str+new_str
+5. 节省内存可以一直用一个str回溯，加上一个resize恢复原样即可，更强的就是中间插一位，其余向后移，只变那一位当符号即可
+6. 别想着先求出所有组合最后再calculate，肯定超时
+*/
 class Solution {
 public:
     vector<string> addOperators(string num, int target) {
