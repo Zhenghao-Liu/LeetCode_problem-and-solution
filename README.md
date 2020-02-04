@@ -37,6 +37,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [90.子集II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0090.子集II)
 * [93.复原IP地址](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0093.复原IP地址)
 * [140.单词拆分II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0140.单词拆分II)
+* [282.给表达式添加运算符](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0282(重要).给表达式添加运算符)
   
 ##### (二) 动态规划
 * [10.正则表达式匹配](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0010.(重要)正则表达式匹配)  
