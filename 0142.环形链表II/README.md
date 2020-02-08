@@ -1,4 +1,4 @@
-* [快慢指针拓展题解](https://leetcode-cn.com/problems/linked-list-cycle-ii/solution/kuai-man-zhi-zhen-by-powcai-4/)
+* [强推快慢指针题解](https://leetcode-cn.com/problems/linked-list-cycle-ii/solution/kuai-man-zhi-zhen-by-powcai-4/)
 
 给定一个链表，返回链表开始入环的第一个节点。 如果链表无环，则返回 ```null```。
 
