@@ -95,6 +95,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [202.快乐数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0202.快乐数)
 * [234.回文链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0234.回文链表)
 * [283.移动零](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0283.移动零)
+* [287.寻找重复数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0287(重要).寻找重复数)
 
 #### (五) 折半查找/二分查找
 * [34.在排序数组中查找元素的第一个和最后一个位置](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0034.在排序数组中查找元素的第一个和最后一个位置)
@@ -181,6 +182,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [153.寻找旋转排序数组中的最小值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0153.寻找旋转排序数组中的最小值)
 * [154.寻找旋转排序数组中的最小值II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0154.寻找旋转排序数组中的最小值II)
 * [241.为运算表达式设计优先级](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0241(重要).为运算表达式设计优先级)
+* [287.寻找重复数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0287(重要).寻找重复数)
 
 #### (十二) 树
 * [94.二叉树的中序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0094.二叉树的中序遍历)
