@@ -262,6 +262,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [218.天际线问题(multimap)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0218.天际线问题)
 * [236.二叉树的最近公共祖先](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0236.二叉树的最近公共祖先)
 * [242.有效的字母异位词](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0242.有效的字母异位词)
+* [290.单词规律](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0290.单词规律)
 
 #### (十七) 集合SET
 * [128.最长连续序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0128(重要).最长连续序列)
