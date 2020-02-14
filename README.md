@@ -233,6 +233,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [225.用队列实现栈](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0225.用队列实现栈)
 * [239.滑动窗口最大值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0239.滑动窗口最大值)
 * [264.丑数II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0264.丑数II)
+* [295.数据流的中位数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0295.数据流的中位数)
 
 #### (十四) 迭代
 * [114.二叉树展开为链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0114.二叉树展开为链表)
@@ -279,6 +280,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [220.存在重复元素III](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0220.存在重复元素III)
 * [239.滑动窗口最大值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0239.滑动窗口最大值)
 * [260.只出现一次的数字III](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0260.只出现一次的数字III)
+* [295.数据流的中位数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0295.数据流的中位数)
 
 #### (十八) 状态机
 * [121.买卖股票的最佳时机](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0121(重要).买卖股票的最佳时机)
