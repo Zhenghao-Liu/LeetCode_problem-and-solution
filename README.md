@@ -221,6 +221,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [230.二叉搜索树中的第K小的元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0230.二叉搜索树中的第K小的元素)
 * [235.二叉搜索树的最近公共祖先](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0235.二叉搜索树的最近公共祖先)
 * [236.二叉树的最近公共祖先](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0236.二叉树的最近公共祖先)
+* [297.二叉树的序列化与反序列化](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0297(重要).二叉树的序列化与反序列化)
 
 #### (十三) 队列
 * [102.二叉树的层次遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0102.二叉树的层次遍历)
@@ -234,6 +235,7 @@ Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改�
 * [239.滑动窗口最大值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0239.滑动窗口最大值)
 * [264.丑数II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0264.丑数II)
 * [295.数据流的中位数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0295.数据流的中位数)
+* [297.二叉树的序列化与反序列化](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0297(重要).二叉树的序列化与反序列化)
 
 #### (十四) 迭代
 * [114.二叉树展开为链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0114.二叉树展开为链表)
