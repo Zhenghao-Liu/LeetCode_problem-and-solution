@@ -1,6 +1,6 @@
 ﻿## LeetCode解题
-Tip:部分题是在编译器写好再上传的，缩进有小问题，统一改为 ```Tab和4size``` 即可
-若有链接失效，可在Issuses上告知
+Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有小问题，统一改为 ```Tab和4size``` 即可  
+若有链接失效或有讨论，可在```Issuses```上告知
 ### https://leetcode-cn.com/u/lzh_yves
 
 ##### (零) 奇特的算法
