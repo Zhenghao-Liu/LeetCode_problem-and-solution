@@ -256,6 +256,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [210.课程表II(检测有向图有无环)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0210.课程表II)
 
 #### (十六) 哈希表MAP
+* [1.两数之和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0001.两数之和)
 * [30.串联所有单词的子串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0030.串联所有单词的子串)
 * [128.最长连续序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0128(重要).最长连续序列)
 * [133.克隆图](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0133(重要).克隆图)
