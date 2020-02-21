@@ -27,7 +27,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [218.天际线问题(multimap)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0218.天际线问题)
 * [229.求众数II(摩尔投票法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0229.求众数II)
 * [237.删除链表中的节点(不给头结点)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0237.删除链表中的节点)
-* [303.区域和检索](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0303.区域和检索)
+* [303.区域和检索(前缀和)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0303.区域和检索)
   
 ##### (一) 回溯
 * [37.解数独](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0037.(重要)解数独)  
