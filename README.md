@@ -27,7 +27,6 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [218.天际线问题(multimap)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0218.天际线问题)
 * [229.求众数II(摩尔投票法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0229.求众数II)
 * [237.删除链表中的节点(不给头结点)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0237.删除链表中的节点)
-* [303.区域和检索(前缀和)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0303.区域和检索)
   
 ##### (一) 回溯
 * [37.解数独](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0037.(重要)解数独)  
@@ -73,6 +72,8 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [264.丑数II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0264.丑数II)
 * [279.完全平方数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0279(重要).完全平方数)
 * [300.最长上升子序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0300.最长上升子序列)
+* [303.区域和检索 - 数组不可变](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0303.区域和检索%20-%20数组不可变)
+* [304.二维区域和检索 - 矩阵不可变](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0304.二维区域和检索%20-%20矩阵不可变)
 
 #### (三) 左右双指针
 * [15.三数之和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0015.三数之和)
