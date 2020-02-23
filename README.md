@@ -39,6 +39,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [140.单词拆分II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0140.单词拆分II)
 * [282.给表达式添加运算符](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0282(重要).给表达式添加运算符)
 * [301.删除无效的括号](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0301.删除无效的括号)
+* [306.累加数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0306.累加数)
   
 ##### (二) 动态规划
 * [10.正则表达式匹配](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0010.(重要)正则表达式匹配)  
