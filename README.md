@@ -182,6 +182,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [220.存在重复元素III](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0220.存在重复元素III)
 
 #### (十一) 二分法/分治
+* [4.寻找两个有序数组的中位数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0004.寻找两个有序数组的中位数)
 * [33.搜索旋转排序数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0033.搜索旋转排序数组)
 * [81.搜索旋转排序数组II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0081.搜索旋转排序数组II)
 * [84.柱状图中最大的矩形](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0084(重要).柱状图中最大的矩形)
