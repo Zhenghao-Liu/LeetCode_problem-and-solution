@@ -75,6 +75,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [300.最长上升子序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0300.最长上升子序列)
 * [303.区域和检索 - 数组不可变](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0303.区域和检索%20-%20数组不可变)
 * [304.二维区域和检索 - 矩阵不可变](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0304.二维区域和检索%20-%20矩阵不可变)
+* [312.戳气球](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0312.戳气球)
 
 #### (三) 左右双指针
 * [11.盛最多水的容器](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0011.盛最多水的容器)
@@ -192,6 +193,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [154.寻找旋转排序数组中的最小值II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0154.寻找旋转排序数组中的最小值II)
 * [241.为运算表达式设计优先级](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0241(重要).为运算表达式设计优先级)
 * [287.寻找重复数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0287(重要).寻找重复数)
+* [312.戳气球](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0312.戳气球)
 
 #### (十二) 树
 * [94.二叉树的中序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0094.二叉树的中序遍历)
