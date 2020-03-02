@@ -76,6 +76,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [303.区域和检索 - 数组不可变](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0303.区域和检索%20-%20数组不可变)
 * [304.二维区域和检索 - 矩阵不可变](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0304.二维区域和检索%20-%20矩阵不可变)
 * [312.戳气球](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0312.戳气球)
+* [313.超级丑数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0313.超级丑数)
 
 #### (三) 左右双指针
 * [11.盛最多水的容器](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0011.盛最多水的容器)
@@ -249,6 +250,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [264.丑数II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0264.丑数II)
 * [295.数据流的中位数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0295.数据流的中位数)
 * [297.二叉树的序列化与反序列化](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0297(重要).二叉树的序列化与反序列化)
+* [313.超级丑数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0313.超级丑数)
 
 #### (十四) 迭代
 * [114.二叉树展开为链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0114.二叉树展开为链表)
