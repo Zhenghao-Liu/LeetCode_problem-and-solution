@@ -1,16 +1,24 @@
+//只有0,1,2三种数字，排好0和2,那么1就自动排好了
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        int nums_size=nums.size();
-        if (nums_size<2)
-            return;
-        int left=0;
-        for (int i=0;i<nums_size;++i)
-            if (nums.at(i)==0)
-                swap(nums.at(i),nums.at(left++));
-        int right=nums_size-1;
-        for (int i=nums_size-1;i>=left;--i)
-            if (nums.at(i)==2)
-                swap(nums.at(i),nums.at(right--));  
+        int left=0,right=nums.size()-1;
+        for (int curr=0;curr<=right;)
+        {
+            if (nums.at(curr)==0)
+            {
+                swap(nums.at(curr),nums.at(left));
+                ++curr;
+                ++left;
+            }
+            else if (nums.at(curr)==2)
+            {
+                swap(nums.at(curr),nums.at(right));
+                --right;
+            }
+            //else if (nums.at(curr)==1)
+            else
+                ++curr;
+        }
     }
 };
