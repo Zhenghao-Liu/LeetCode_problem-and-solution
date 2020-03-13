@@ -30,11 +30,16 @@ public:
     {
         int i=0,j=0;
         int left_size=left.size(),right_size=right.size();
+        //求逆序对，对于归并排序来说，左半、右半部分一定有序
+        //当right.at(j).second<left.at(i).second时即，左边部分，从i开始到left_size-1的元素都可以与j构成逆序对
+        //所以一种做法是让所有i到left_size-1的count值加1，但复杂度较高
+        //所以换种思路，在left.at(i).second<=right.at(j).second时，此时可以构成逆序对第二个元素的，即right中的值已经提出
+        //提出了几个其实就是索引j，所以左边元素count直接加上j即可
         while (i<left_size && j<right_size)
         {
             if (left.at(i).second<=right.at(j).second)
             {
-                count.at(left.at(i).first)+=j;//神奇
+                count.at(left.at(i).first)+=j;//关键
                 arr.push_back(left.at(i));
                 ++i;
             }
@@ -46,7 +51,7 @@ public:
         }
         while (i<left_size)
         {
-            count.at(left.at(i).first)+=j;//神奇
+            count.at(left.at(i).first)+=j;//关键
             arr.push_back(left.at(i));
             ++i;
         }
