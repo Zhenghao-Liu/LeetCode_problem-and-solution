@@ -181,6 +181,8 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [164.最大间距(桶排序/基数排序)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0164(重要).最大间距)
 * [207.课程表(拓扑排序)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0207.课程表)
 * [210.课程表II(拓扑排序)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0210.课程表II)
+* [315.计算右侧小于当前元素的个数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0315.计算右侧小于当前元素的个数)
+* [327.区间和的个数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0327.区间和的个数)
 
 #### (十) 滑动窗口
 * [03.无重复字符的最长子串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0003(重要).无重复字符的最长子串)
