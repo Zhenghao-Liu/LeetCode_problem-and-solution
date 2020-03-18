@@ -41,6 +41,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [301.删除无效的括号](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0301.删除无效的括号)
 * [306.累加数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0306.累加数)
 * [322.零钱兑换](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0322.零钱兑换)
+* [329.矩阵中的最长递增路径](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0329.矩阵中的最长递增路径)
   
 ##### (二) 动态规划
 * [10.正则表达式匹配](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0010.(重要)正则表达式匹配)  
@@ -79,6 +80,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [312.戳气球](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0312.戳气球)
 * [313.超级丑数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0313.超级丑数)
 * [322.零钱兑换](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0322.零钱兑换)
+* [329.矩阵中的最长递增路径](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0329.矩阵中的最长递增路径)
 
 #### (三) 左右双指针
 * [11.盛最多水的容器](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0011.盛最多水的容器)
