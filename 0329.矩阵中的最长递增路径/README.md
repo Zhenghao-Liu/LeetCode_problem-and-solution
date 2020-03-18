@@ -1,3 +1,6 @@
+* [官方题解](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/solution/ju-zhen-zhong-de-zui-chang-di-zeng-lu-jing-by-leet/)
+* [推荐题解](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/solution/c-dong-tai-gui-hua-by-infinite-15-4/)
+
 给定一个整数矩阵，找出最长递增路径的长度。
 
 对于每个单元格，你可以往上，下，左，右四个方向移动。 你不能在对角线方向上移动或移动到边界外（即不允许环绕）。
