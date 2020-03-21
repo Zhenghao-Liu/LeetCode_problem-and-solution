@@ -138,6 +138,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [230.二叉搜索树中的第K小的元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0230.二叉搜索树中的第K小的元素)
 * [232.用栈实现队列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0232.用栈实现队列)
 * [316.去除重复字母](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0316.去除重复字母)
+* [331.验证二叉树的前序序列化](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0331(重要).验证二叉树的前序序列化)
 
 #### (七) 递归
 * [22.括号生成](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0022.括号生成)
@@ -246,6 +247,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [297.二叉树的序列化与反序列化](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0297(重要).二叉树的序列化与反序列化)
 * [307.区域和检索 - 数组可修改](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0307.区域和检索%20-%20数组可修改)
 * [310.最小高度树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0310.最小高度树)
+* [331.验证二叉树的前序序列化](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0331(重要).验证二叉树的前序序列化)
 
 #### (十三) 队列
 * [102.二叉树的层次遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0102.二叉树的层次遍历)
