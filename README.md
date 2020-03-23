@@ -93,6 +93,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [131.分割回文串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0131.分割回文串)
 * [167.两数之和II - 输入有序数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0167.两数之和II%20-%20输入有序数组)
 * [228.汇总区间](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0228.汇总区间)
+* [334.递增的三元子序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0334.递增的三元子序列)
 
 #### (四) 快慢指针
 * [19.删除链表的倒数第N个节点](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0019.删除链表的倒数第N个节点)
@@ -281,7 +282,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [210.课程表II(检测有向图有无环)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0210.课程表II)
 * [310.最小高度树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0310.最小高度树)
 
-#### (十六) 哈希表MAP
+#### (十六) 映射MAP
 * [1.两数之和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0001.两数之和)
 * [30.串联所有单词的子串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0030.串联所有单词的子串)
 * [128.最长连续序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0128(重要).最长连续序列)
