@@ -3,9 +3,17 @@
 #include <vector>
 #include <algorithm>
 #include <string>
+#include <chrono>
+//#include <iomanip>
+//#include <ratio>
+//#include <ctime>
+//#include <cstdio>
+//#include <set>
+//#include <bitset>
 //#include <map>
 //#include <bits/stdc++.h>
 //#include <typeinfo>
+//#include <deque>
 //#include <stack>
 //#include <queue>
 //#include <sstream>
@@ -24,31 +32,36 @@ void show(vector<vector<T>> answer);
 void show(vector<vector<bool>> answer);
 /*---------------------------------------*/
 
-
 /*---------------------------------------*/
 int main()
 {
+	using namespace std::chrono;
+	steady_clock::time_point t_begin = steady_clock::now();
+	/*---------------------------------------*/
+	
 
 
+	/*---------------------------------------*/
+	steady_clock::time_point t_end = steady_clock::now();
+	duration<double> time_span = duration_cast<duration<double>>(t_end - t_begin);
+	cout << endl << "---------------------------------------" << endl;
+	cout << "It takes " << time_span.count()*1000 << " ms.";
 	return 0;
 }
 /*---------------------------------------*/
 
-
 /*---------------------------------------*/
 void show(vector<vector<bool>> answer)
 {
-	int answer_size = answer.size();
-	for (int i = 0; i < answer_size; ++i)
+	cout << boolalpha;
+	for (vector<bool> &i:answer)
 	{
-		for (unsigned int j = 0; j < answer.at(i).size(); ++j)
-			if (answer.at(i).at(j) == 0)
-				cout << "false ";
-			else
-				cout << "true ";
+		for (bool j:i)
+			cout << j << " ";
 		cout << endl;
 	}
 	cout << "---------------------------" << endl;
+	cout << noboolalpha;
 }
 template <typename T>
 void show(vector<vector<T>> answer)
