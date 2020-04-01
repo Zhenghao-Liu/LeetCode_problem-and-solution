@@ -142,6 +142,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [232.用栈实现队列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0232.用栈实现队列)
 * [316.去除重复字母](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0316.去除重复字母)
 * [331.验证二叉树的前序序列化](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0331(重要).验证二叉树的前序序列化)
+* [341.扁平化嵌套列表迭代器](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0341.扁平化嵌套列表迭代器)
 
 #### (七) 递归
 * [22.括号生成](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0022.括号生成)
