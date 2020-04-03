@@ -96,6 +96,8 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [167.两数之和II - 输入有序数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0167.两数之和II%20-%20输入有序数组)
 * [228.汇总区间](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0228.汇总区间)
 * [334.递增的三元子序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0334.递增的三元子序列)
+* [344.反转字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0344.反转字符串)
+* [345.反转字符串中的元音字母](ttps://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0345.反转字符串中的元音字母)
 
 #### (四) 快慢指针
 * [19.删除链表的倒数第N个节点](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0019.删除链表的倒数第N个节点)
