@@ -306,6 +306,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [242.有效的字母异位词](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0242.有效的字母异位词)
 * [290.单词规律](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0290.单词规律)
 * [336.回文对](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0336.回文对)
+* [347.前K个高频元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0347.前K个高频元素)
 
 #### (十七) 集合SET
 * [128.最长连续序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0128(重要).最长连续序列)
