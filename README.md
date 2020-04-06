@@ -100,6 +100,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [344.反转字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0344.反转字符串)
 * [345.反转字符串中的元音字母](ttps://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0345.反转字符串中的元音字母)
 * [349.两个数组的交集](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0349.两个数组的交集)
+* [350.两个数组的交集II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0350.两个数组的交集II)
 
 #### (四) 快慢指针
 * [19.删除链表的倒数第N个节点](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0019.删除链表的倒数第N个节点)
@@ -129,6 +130,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [278.第一个错误的版本](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0278.第一个错误的版本)
 * [300.最长上升子序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0300.最长上升子序列)
 * [349.两个数组的交集](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0349.两个数组的交集)
+* [350.两个数组的交集II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0350.两个数组的交集II)
 
 #### (六) 栈
 * [20.有效的括号](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0020.有效的括号)
@@ -309,6 +311,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [290.单词规律](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0290.单词规律)
 * [336.回文对](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0336.回文对)
 * [347.前K个高频元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0347.前K个高频元素)
+* [350.两个数组的交集II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0350.两个数组的交集II)
 * [460.LFU缓存](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0460.LFU缓存)
 
 #### (十七) 集合SET
@@ -328,6 +331,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [260.只出现一次的数字III](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0260.只出现一次的数字III)
 * [295.数据流的中位数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0295.数据流的中位数)
 * [349.两个数组的交集](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0349.两个数组的交集)
+* [350.两个数组的交集II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0350.两个数组的交集II)
 * [460.LFU缓存](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0460.LFU缓存)
 
 #### (十八) 状态机(automaton)
