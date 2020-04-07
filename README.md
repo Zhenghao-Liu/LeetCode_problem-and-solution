@@ -84,6 +84,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [329.矩阵中的最长递增路径](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0329.矩阵中的最长递增路径)
 * [337.打家劫舍III](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0337.打家劫舍III)
 * [343.整数划分](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0343.整数划分)
+* [354.俄罗斯套娃信封问题](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0354.俄罗斯套娃信封问题])
 
 #### (三) 左右双指针
 * [11.盛最多水的容器](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0011.盛最多水的容器)
@@ -128,7 +129,6 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [162.寻找峰值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0162.寻找峰值)
 * [275.H指数II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0275.H指数II)
 * [278.第一个错误的版本](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0278.第一个错误的版本)
-* [300.最长上升子序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0300.最长上升子序列)
 * [349.两个数组的交集](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0349.两个数组的交集)
 * [350.两个数组的交集II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0350.两个数组的交集II)
 
