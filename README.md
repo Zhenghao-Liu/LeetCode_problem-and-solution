@@ -43,6 +43,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [322.零钱兑换](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0322.零钱兑换)
 * [329.矩阵中的最长递增路径](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0329.矩阵中的最长递增路径)
 * [332.重新安排行程](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0332.重新安排行程)
+* [面试题13.机器人的运动范围](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题13.机器人的运动范围)
   
 ##### (二) 动态规划
 * [10.正则表达式匹配](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0010.(重要)正则表达式匹配)  
@@ -191,6 +192,9 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [54.螺旋矩阵](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0054.螺旋矩阵)
 * [59.螺旋矩阵II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0059.螺旋矩阵II)
 * [73.矩阵置零](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0073.矩阵置零)
+* [200.岛屿数量](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0200.岛屿数量)
+* [面试题01.07.旋转矩阵](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题01.07.旋转矩阵)
+* [面试题13.机器人的运动范围](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题13.机器人的运动范围)
 
 #### (九) 排序
 * [75.颜色分类(快速排序/三色排序)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0075.颜色分类)
