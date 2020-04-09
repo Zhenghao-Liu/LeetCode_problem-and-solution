@@ -86,6 +86,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [337.打家劫舍III](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0337.打家劫舍III)
 * [343.整数划分](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0343.整数划分)
 * [354.俄罗斯套娃信封问题](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0354.俄罗斯套娃信封问题])
+* [357.计算各个位数不同的数字个数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0357.计算各个位数不同的数字个数)
 
 #### (三) 左右双指针
 * [11.盛最多水的容器](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0011.盛最多水的容器)
