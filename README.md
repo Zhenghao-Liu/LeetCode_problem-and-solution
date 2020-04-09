@@ -317,6 +317,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [336.回文对](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0336.回文对)
 * [347.前K个高频元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0347.前K个高频元素)
 * [350.两个数组的交集II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0350.两个数组的交集II)
+* [355.设计推特](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0355.设计推特)
 * [460.LFU缓存](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0460.LFU缓存)
 
 #### (十七) 集合SET
