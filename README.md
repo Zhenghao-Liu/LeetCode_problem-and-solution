@@ -330,6 +330,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [141.环形链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0141.环形链表)
 * [142.环形链表II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0142.环形链表II)
 * [160.相交链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0160.相交链表)
+* [187.重复的DNA序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0187.重复的DNA序列)
 * [190.颠倒二进制位](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0190.颠倒二进制位)
 * [191.位1的个数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0191.位1的个数)
 * [202.快乐数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0202.快乐数)
@@ -352,6 +353,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 #### (十九) 位运算
 * [136.只出现一次的数字](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0136.只出现一次的数字)
 * [137.只出现一次的数字II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0137.只出现一次的数字II)
+* [187.重复的DNA序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0187.重复的DNA序列)
 * [201.数字范围按位与](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0201.数字范围按位与)
 * [231.2的幂](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0231.2的幂)
 * [260.只出现一次的数字III](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0260.只出现一次的数字III)
