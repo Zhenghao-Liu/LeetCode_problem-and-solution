@@ -43,6 +43,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [322.零钱兑换](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0322.零钱兑换)
 * [329.矩阵中的最长递增路径](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0329.矩阵中的最长递增路径)
 * [332.重新安排行程](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0332.重新安排行程)
+* [365.水壶问题](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0365.水壶问题)
 * [面试题13.机器人的运动范围](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题13.机器人的运动范围)
   
 ##### (二) 动态规划
