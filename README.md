@@ -394,3 +394,14 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [328.奇偶链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0328.奇偶链表)
 * [445.两数相加II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0445.两数相加II)
 * [460.LFU缓存](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0460.LFU缓存)
+
+#### (二十一) 数学
+* [62.不同路径](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0062.不同路径)
+* [96.不同的二叉搜索树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0096(重要).不同的二叉搜索树)
+* [134.加油站](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0134.加油站)
+* [136.只出现一次的数字](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0136.只出现一次的数字)
+* [137.只出现一次的数字II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0137.只出现一次的数字II)
+* [233.数字1的个数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0233.数字1的个数)
+* [279.完全平方数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0279(重要).完全平方数)
+* [326.3的幂](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0326.3的幂)
+* [372.超级次方](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0372(重要).超级次方)
