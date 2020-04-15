@@ -138,6 +138,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [350.两个数组的交集II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0350.两个数组的交集II)
 * [363.矩形区域不超过K的最大数值和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0363.矩形区域不超过K的最大数值和)
 * [367.有效的完全平方数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0367.有效的完全平方数)
+* [374.猜数字大小](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0374.猜数字大小)
 * [887.鸡蛋掉落](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0887.鸡蛋掉落)
 
 #### (六) 栈
@@ -200,6 +201,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [59.螺旋矩阵II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0059.螺旋矩阵II)
 * [73.矩阵置零](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0073.矩阵置零)
 * [200.岛屿数量](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0200.岛屿数量)
+* [542.01矩阵](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0542.01矩阵)
 * [面试题01.07.旋转矩阵](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题01.07.旋转矩阵)
 * [面试题13.机器人的运动范围](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题13.机器人的运动范围)
 
@@ -289,6 +291,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [295.数据流的中位数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0295.数据流的中位数)
 * [297.二叉树的序列化与反序列化](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0297(重要).二叉树的序列化与反序列化)
 * [313.超级丑数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0313.超级丑数)
+* [373.查找和最小的K对数字](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0373.查找和最小的K对数字)
 
 #### (十四) 迭代
 * [114.二叉树展开为链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0114.二叉树展开为链表)
