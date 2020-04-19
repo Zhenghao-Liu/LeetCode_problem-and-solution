@@ -92,6 +92,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [375.猜数字大小II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0375.猜数字大小II)
 * [376.摆动序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0376.摆动序列)
 * [887.鸡蛋掉落](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0887.鸡蛋掉落)
+* [1411.给Nx3网格图涂色的方案](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1411.给Nx3网格图涂色的方案)
 
 #### (三) 左右双指针
 * [11.盛最多水的容器](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0011.盛最多水的容器)
@@ -410,3 +411,4 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [279.完全平方数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0279(重要).完全平方数)
 * [326.3的幂](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0326.3的幂)
 * [372.超级次方](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0372(重要).超级次方)
+* [LCP 02.分式化简](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/LCP%2002.分式化简)
