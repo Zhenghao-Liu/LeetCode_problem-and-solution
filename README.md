@@ -44,6 +44,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [329.矩阵中的最长递增路径](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0329.矩阵中的最长递增路径)
 * [332.重新安排行程](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0332.重新安排行程)
 * [365.水壶问题](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0365.水壶问题)
+* [LCP 07.传递信息](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/LCP%2007.传递信息)
 * [面试题13.机器人的运动范围](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题13.机器人的运动范围)
   
 ##### (二) 动态规划
@@ -93,6 +94,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [376.摆动序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0376.摆动序列)
 * [887.鸡蛋掉落](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0887.鸡蛋掉落)
 * [1411.给Nx3网格图涂色的方案](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1411.给Nx3网格图涂色的方案)
+* [LCP 09.最小跳跃次数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/LCP%2009.最小跳跃次数)
 
 #### (三) 左右双指针
 * [11.盛最多水的容器](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0011.盛最多水的容器)
