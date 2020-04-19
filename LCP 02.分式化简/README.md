@@ -1,6 +1,6 @@
 有一个同学在学习分式。他需要将一个连分数化成最简分数，你能帮助他吗？
 
-![image](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/LCP%20-%2002.分式化简/fraction_example_1.jpg)
+![image](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/LCP%202.分式化简/fraction_example_1.jpg)
 
 连分数是形如上图的分式。在本题中，所有系数都是大于等于0的整数。
 
