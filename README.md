@@ -44,6 +44,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [329.矩阵中的最长递增路径](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0329.矩阵中的最长递增路径)
 * [332.重新安排行程](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0332.重新安排行程)
 * [365.水壶问题](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0365.水壶问题)
+* [1415.长度为n的开心字符串中字典序第k小的字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1415.长度为n的开心字符串中字典序第k小的字符串)
 * [LCP 07.传递信息](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/LCP%2007.传递信息)
 * [面试题13.机器人的运动范围](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题13.机器人的运动范围)
   
@@ -94,6 +95,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [376.摆动序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0376.摆动序列)
 * [887.鸡蛋掉落](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0887.鸡蛋掉落)
 * [1411.给Nx3网格图涂色的方案](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1411.给Nx3网格图涂色的方案)
+* [1416.恢复数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1416.恢复数组)
 * [LCP 09.最小跳跃次数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/LCP%2009.最小跳跃次数)
 
 #### (三) 左右双指针
@@ -167,6 +169,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [316.去除重复字母](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0316.去除重复字母)
 * [331.验证二叉树的前序序列化](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0331(重要).验证二叉树的前序序列化)
 * [341.扁平化嵌套列表迭代器](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0341.扁平化嵌套列表迭代器)
+* [1419.数青蛙](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1419.数青蛙)
 
 #### (七) 递归
 * [22.括号生成](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0022.括号生成)
@@ -290,7 +293,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [107.二叉树的层次遍历II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0107.二叉树的层次遍历II)
 * [111.二叉树的最小深度](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0111.二叉树的最小深度)
 * [199.二叉树的右视图](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0199.二叉树的右视图)
-* [215.数组中的第K个最大元素(优先队列)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0215.数组中的第K个最大元素)
+* [215.数组中的第K个最大元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0215.数组中的第K个最大元素)
 * [225.用队列实现栈](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0225.用队列实现栈)
 * [239.滑动窗口最大值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0239.滑动窗口最大值)
 * [264.丑数II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0264.丑数II)
@@ -298,6 +301,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [297.二叉树的序列化与反序列化](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0297(重要).二叉树的序列化与反序列化)
 * [313.超级丑数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0313.超级丑数)
 * [373.查找和最小的K对数字](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0373.查找和最小的K对数字)
+* [1417.重新格式化字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1417.重新格式化字符串)
 
 #### (十四) 迭代
 * [114.二叉树展开为链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0114.二叉树展开为链表)
@@ -335,6 +339,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [350.两个数组的交集II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0350.两个数组的交集II)
 * [355.设计推特](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0355.设计推特)
 * [460.LFU缓存](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0460.LFU缓存)
+* [1418.点菜展示表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1418.点菜展示表)
 
 #### (十七) 集合SET
 * [128.最长连续序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0128(重要).最长连续序列)
@@ -414,4 +419,5 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [279.完全平方数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0279(重要).完全平方数)
 * [326.3的幂](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0326.3的幂)
 * [372.超级次方](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0372(重要).超级次方)
+* [1414.和为K的最少斐波那契数字数目](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1414.和为K的最少斐波那契数字数目)
 * [LCP 02.分式化简](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/LCP%2002.分式化简)
