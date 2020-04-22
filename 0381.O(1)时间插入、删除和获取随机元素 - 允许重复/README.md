@@ -1,4 +1,4 @@
-* [推荐题解](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/solution/ha-xi-biao-ji-he-by-lzh_yves/)
+* [个人题解](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/solution/ha-xi-biao-ji-he-by-lzh_yves/)
 
 设计一个支持在平均 时间复杂度 **O(1)** 下， 执行以下操作的数据结构。
 
