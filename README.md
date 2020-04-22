@@ -344,6 +344,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [355.设计推特](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0355.设计推特)
 * [380.常数时间插入、删除和获取随机元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0380.常数时间插入、删除和获取随机元素)
 * [381.O(1)时间插入、删除和获取随机元素 - 允许重复](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0381.O(1)时间插入、删除和获取随机元素%20-%20允许重复)
+* [383.赎金信](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0383.赎金信)
 * [460.LFU缓存](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0460.LFU缓存)
 * [1418.点菜展示表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1418.点菜展示表)
 
