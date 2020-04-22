@@ -24,9 +24,10 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [169.多数元素(摩尔投票法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0169.多数元素)
 * [204.计数质数(厄拉多塞筛法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0204.计数质数)
 * [214.最短回文串(KMP中的prefix_table)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0214(重要).最短回文串)
-* [218.天际线问题(multimap)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0218.天际线问题)
+* [218.天际线问题(multiset)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0218.天际线问题)
 * [229.求众数II(摩尔投票法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0229.求众数II)
 * [237.删除链表中的节点(不给头结点)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0237.删除链表中的节点)
+* [382.链表随机节点(蓄水池抽样)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0382.链表随机节点)
   
 ##### (一) 回溯
 * [37.解数独](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0037.(重要)解数独)  
@@ -341,6 +342,8 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [347.前K个高频元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0347.前K个高频元素)
 * [350.两个数组的交集II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0350.两个数组的交集II)
 * [355.设计推特](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0355.设计推特)
+* [380.常数时间插入、删除和获取随机元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0380.常数时间插入、删除和获取随机元素)
+* [381.O(1)时间插入、删除和获取随机元素 - 允许重复](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0381.O(1)时间插入、删除和获取随机元素%20-%20允许重复)
 * [460.LFU缓存](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0460.LFU缓存)
 * [1418.点菜展示表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1418.点菜展示表)
 
