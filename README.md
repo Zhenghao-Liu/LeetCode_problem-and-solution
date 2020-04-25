@@ -28,6 +28,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [229.求众数II(摩尔投票法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0229.求众数II)
 * [237.删除链表中的节点(不给头结点)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0237.删除链表中的节点)
 * [382.链表随机节点(蓄水池抽样)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0382.链表随机节点)
+* [384.打乱数组(洗牌算法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0384.打乱数组)
   
 ##### (一) 回溯
 * [37.解数独](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0037.(重要)解数独)  
@@ -98,6 +99,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [1411.给Nx3网格图涂色的方案](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1411.给Nx3网格图涂色的方案)
 * [1416.恢复数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1416.恢复数组)
 * [LCP 09.最小跳跃次数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/LCP%2009.最小跳跃次数)
+* [面试题08.11.硬币](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题08.11.硬币)
 
 #### (三) 左右双指针
 * [11.盛最多水的容器](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0011.盛最多水的容器)
@@ -227,6 +229,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [210.课程表II(拓扑排序)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0210.课程表II)
 * [315.计算右侧小于当前元素的个数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0315.计算右侧小于当前元素的个数)
 * [327.区间和的个数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0327.区间和的个数)
+* [面试题51.数组中的逆序对](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题51.数组中的逆序对)
 
 #### (十) 滑动窗口
 * [03.无重复字符的最长子串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0003(重要).无重复字符的最长子串)
