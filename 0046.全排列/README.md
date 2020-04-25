@@ -1,4 +1,4 @@
-//个人题解 <https://leetcode-cn.com/problems/permutations/solution/mo-neng-di-gui-by-lzh_yves/>
+* [推荐题解](https://leetcode-cn.com/problems/permutations/solution/quan-pai-lie-by-leetcode-solution-2/)
 
 给定一个**没有重复**数字的序列，返回其所有可能的全排列。
 
