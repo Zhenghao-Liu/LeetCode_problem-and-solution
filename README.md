@@ -31,7 +31,8 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [384.打乱数组(洗牌算法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0384.打乱数组)
   
 ##### (一) 回溯
-* [37.解数独](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0037.(重要)解数独)  
+* [37.解数独](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0037.(重要)解数独)
+* [46.全排列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0046.全排列)
 * [51.N皇后](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0051.N皇后)
 * [77.组合](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0077.组合)
 * [78.子集](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0078.子集)
