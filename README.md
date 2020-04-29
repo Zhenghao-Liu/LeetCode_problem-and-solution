@@ -1,6 +1,6 @@
 ﻿## LeetCode解题
 Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有小问题，统一改为 ```Tab和4size``` 即可  
-若有链接失效或有讨论，可在```Issuses```上告知
+若有链接失效或有讨论或有添加，可在```Issuses```上告知
 ### https://leetcode-cn.com/u/lzh_yves
 
 ##### (零) 奇特的算法
@@ -47,6 +47,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [329.矩阵中的最长递增路径](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0329.矩阵中的最长递增路径)
 * [332.重新安排行程](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0332.重新安排行程)
 * [365.水壶问题](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0365.水壶问题)
+* [386.字典序排数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0386.字典序排数)
 * [1415.长度为n的开心字符串中字典序第k小的字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1415.长度为n的开心字符串中字典序第k小的字符串)
 * [LCP 07.传递信息](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/LCP%2007.传递信息)
 * [面试题13.机器人的运动范围](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题13.机器人的运动范围)
@@ -99,6 +100,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [887.鸡蛋掉落](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0887.鸡蛋掉落)
 * [1411.给Nx3网格图涂色的方案](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1411.给Nx3网格图涂色的方案)
 * [1416.恢复数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1416.恢复数组)
+* [1425.带限制的子序和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1425.带限制的子序和)
 * [LCP 09.最小跳跃次数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/LCP%2009.最小跳跃次数)
 * [面试题08.11.硬币](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题08.11.硬币)
 
@@ -173,6 +175,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [316.去除重复字母](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0316.去除重复字母)
 * [331.验证二叉树的前序序列化](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0331(重要).验证二叉树的前序序列化)
 * [341.扁平化嵌套列表迭代器](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0341.扁平化嵌套列表迭代器)
+* [388.文件的最长绝对路径](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0388.文件的最长绝对路径)
 * [1419.数青蛙](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1419.数青蛙)
 
 #### (七) 递归
@@ -349,8 +352,11 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [380.常数时间插入、删除和获取随机元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0380.常数时间插入、删除和获取随机元素)
 * [381.O(1)时间插入、删除和获取随机元素 - 允许重复](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0381.O(1)时间插入、删除和获取随机元素%20-%20允许重复)
 * [383.赎金信](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0383.赎金信)
+* [387.字符串中第一个唯一字符](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0387.字符串中第一个唯一字符)
+* [389.找不同](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0389.找不同)
 * [460.LFU缓存](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0460.LFU缓存)
 * [1418.点菜展示表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1418.点菜展示表)
+* [1424.对角线遍历II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1424.对角线遍历II)
 
 #### (十七) 集合SET
 * [128.最长连续序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0128(重要).最长连续序列)
@@ -393,6 +399,8 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [338.比特位计数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0338.比特位计数)
 * [342.4的幂](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0342.4的幂)
 * [371.两整数之和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0371.两整数之和)
+* [389.找不同](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0389.找不同)
+* [面试题56-I.数组中数字出现的次数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题56-I.数组中数字出现的次数)
 
 #### (二十) 链表
 * [19.删除链表的倒数第N个节点](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0019.删除链表的倒数第N个节点)
