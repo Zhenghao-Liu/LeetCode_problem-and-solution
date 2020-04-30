@@ -154,6 +154,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [367.有效的完全平方数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0367.有效的完全平方数)
 * [374.猜数字大小](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0374.猜数字大小)
 * [887.鸡蛋掉落](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0887.鸡蛋掉落)
+* [1095.山脉数组中查找目标值(笔记)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1095.山脉数组中查找目标值)
 
 #### (六) 栈
 * [20.有效的括号](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0020.有效的括号)
@@ -438,5 +439,6 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [279.完全平方数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0279(重要).完全平方数)
 * [326.3的幂](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0326.3的幂)
 * [372.超级次方](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0372(重要).超级次方)
+* [390.消除游戏](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/390.消除游戏)
 * [1414.和为K的最少斐波那契数字数目](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1414.和为K的最少斐波那契数字数目)
 * [LCP 02.分式化简](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/LCP%2002.分式化简)
