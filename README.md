@@ -29,6 +29,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [237.删除链表中的节点(不给头结点)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0237.删除链表中的节点)
 * [382.链表随机节点(蓄水池抽样)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0382.链表随机节点)
 * [384.打乱数组(洗牌算法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0384.打乱数组)
+* [391.完美矩形(扫描线)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/391.完美矩形)
   
 ##### (一) 回溯
 * [37.解数独](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0037.(重要)解数独)
@@ -138,6 +139,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [283.移动零](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0283.移动零)
 * [287.寻找重复数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0287(重要).寻找重复数)
 * [328.奇偶链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0328.奇偶链表)
+* [392.判断子序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0392.判断子序列)
 
 #### (五) 折半查找/二分查找
 * [34.在排序数组中查找元素的第一个和最后一个位置](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0034.在排序数组中查找元素的第一个和最后一个位置)
@@ -401,6 +403,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [342.4的幂](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0342.4的幂)
 * [371.两整数之和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0371.两整数之和)
 * [389.找不同](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0389.找不同)
+* [393.UTF-8编码验证](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/393.UTF-8编码验证)
 * [面试题56-I.数组中数字出现的次数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题56-I.数组中数字出现的次数)
 
 #### (二十) 链表
@@ -439,6 +442,8 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [279.完全平方数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0279(重要).完全平方数)
 * [326.3的幂](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0326.3的幂)
 * [372.超级次方](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0372(重要).超级次方)
+* [382.链表随机节点(蓄水池抽样)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0382.链表随机节点)
+* [384.打乱数组(洗牌算法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0384.打乱数组)
 * [390.消除游戏](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/390.消除游戏)
 * [1414.和为K的最少斐波那契数字数目](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1414.和为K的最少斐波那契数字数目)
 * [LCP 02.分式化简](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/LCP%2002.分式化简)
