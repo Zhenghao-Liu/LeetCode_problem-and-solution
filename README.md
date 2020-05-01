@@ -403,7 +403,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [342.4的幂](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0342.4的幂)
 * [371.两整数之和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0371.两整数之和)
 * [389.找不同](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0389.找不同)
-* [393.UTF-8编码验证](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/393.UTF-8编码验证)
+* [393.UTF-8编码验证](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0393.UTF-8编码验证)
 * [面试题56-I.数组中数字出现的次数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题56-I.数组中数字出现的次数)
 
 #### (二十) 链表
