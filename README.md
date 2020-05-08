@@ -6,7 +6,6 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 ##### (零) 奇特的算法
 * [30.串联所有单词的子串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0030.(重要)串联所有单词的子串)
 * [32.最长有效括号](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0032.最长有效括号)
-* [41.缺失的第一个正数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0041.缺失的第一个正数)
 * [45.跳跃游戏II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0045.跳跃游戏II)
 * [49.字母异位词分组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0049.字母异位词分组)
 * [60.第k个排列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0060.第k个排列)
@@ -14,21 +13,15 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [85.最大矩形](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0085(重要).最大矩形)
 * [88.合并两个有序数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0088.合并两个有序数组)
 * [114.二叉树展开为链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0114.二叉树展开为链表)
-* [122.买卖股票的最佳时机II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0122.买卖股票的最佳时机II)
 * [134.加油站](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0134.加油站)
 * [135.分发糖果](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0135.分发糖果)
-* [136.只出现一次的数字](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0136.只出现一次的数字)
 * [141.环形链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0141.环形链表)
 * [145.二叉树的后序遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0145.二叉树的后序遍历)
 * [162.寻找峰值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0162.寻找峰值)
-* [169.多数元素(摩尔投票法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0169.多数元素)
-* [204.计数质数(厄拉多塞筛法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0204.计数质数)
+
 * [214.最短回文串(KMP中的prefix_table)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0214(重要).最短回文串)
 * [218.天际线问题(multiset)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0218.天际线问题)
-* [229.求众数II(摩尔投票法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0229.求众数II)
 * [237.删除链表中的节点(不给头结点)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0237.删除链表中的节点)
-* [382.链表随机节点(蓄水池抽样)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0382.链表随机节点)
-* [384.打乱数组(洗牌算法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0384.打乱数组)
 * [391.完美矩形(扫描线)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/391.完美矩形)
   
 ##### (一) 回溯
@@ -49,6 +42,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [332.重新安排行程](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0332.重新安排行程)
 * [365.水壶问题](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0365.水壶问题)
 * [386.字典序排数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0386.字典序排数)
+* [401.二进制手表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0401.二进制手表)
 * [1415.长度为n的开心字符串中字典序第k小的字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1415.长度为n的开心字符串中字典序第k小的字符串)
 * [1436.旅行终点站](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1436.旅行终点站)
 * [LCP 07.传递信息](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/LCP%2007.传递信息)
@@ -101,6 +95,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [376.摆动序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0376.摆动序列)
 * [396.旋转函数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0396.旋转函数)
 * [887.鸡蛋掉落](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0887.鸡蛋掉落)
+* [983.最低票价](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0983.最低票价)
 * [1411.给Nx3网格图涂色的方案](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1411.给Nx3网格图涂色的方案)
 * [1416.恢复数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1416.恢复数组)
 * [1425.带限制的子序和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1425.带限制的子序和)
@@ -122,6 +117,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [345.反转字符串中的元音字母](ttps://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0345.反转字符串中的元音字母)
 * [349.两个数组的交集](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0349.两个数组的交集)
 * [350.两个数组的交集II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0350.两个数组的交集II)
+* [402.移掉k位数字](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0402.移掉k位数字)
 * [1248.统计「优美子数组」](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1248.统计「优美子数组」)
 
 #### (四) 快慢指针
@@ -304,6 +300,8 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [307.区域和检索 - 数组可修改](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0307.区域和检索%20-%20数组可修改)
 * [310.最小高度树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0310.最小高度树)
 * [331.验证二叉树的前序序列化](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0331(重要).验证二叉树的前序序列化)
+* [399.除法求值(并查集)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0399(重要).除法求值)
+* [572.另一个树的子树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0572.另一个树的子树)
 
 #### (十三) 队列
 * [102.二叉树的层次遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0102.二叉树的层次遍历)
@@ -320,6 +318,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [297.二叉树的序列化与反序列化](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0297(重要).二叉树的序列化与反序列化)
 * [313.超级丑数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0313.超级丑数)
 * [373.查找和最小的K对数字](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0373.查找和最小的K对数字)
+* [402.移掉k位数字](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0402.移掉k位数字)
 * [1417.重新格式化字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1417.重新格式化字符串)
 
 #### (十四) 迭代
@@ -385,6 +384,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [295.数据流的中位数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0295.数据流的中位数)
 * [349.两个数组的交集](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0349.两个数组的交集)
 * [350.两个数组的交集II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0350.两个数组的交集II)
+* [399.除法求值(并查集)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0399(重要).除法求值)
 * [460.LFU缓存](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0460.LFU缓存)
 * [1436.旅行终点站](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1436.旅行终点站)
 
@@ -411,6 +411,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [389.找不同](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0389.找不同)
 * [393.UTF-8编码验证](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0393.UTF-8编码验证)
 * [397.整数替换](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0397.整数替换)
+* [401.二进制手表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0401.二进制手表)
 * [面试题56-I.数组中数字出现的次数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题56-I.数组中数字出现的次数)
 
 #### (二十) 链表
@@ -440,11 +441,15 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [460.LFU缓存](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0460.LFU缓存)
 
 #### (二十一) 数学
+* [41.缺失的第一个正数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0041.缺失的第一个正数)
 * [62.不同路径](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0062.不同路径)
 * [96.不同的二叉搜索树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0096(重要).不同的二叉搜索树)
 * [134.加油站](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0134.加油站)
 * [136.只出现一次的数字](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0136.只出现一次的数字)
 * [137.只出现一次的数字II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0137.只出现一次的数字II)
+* [169.多数元素(摩尔投票法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0169.多数元素)
+* [204.计数质数(厄拉多塞筛法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0204.计数质数)
+* [229.求众数II(摩尔投票法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0229.求众数II)
 * [233.数字1的个数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0233.数字1的个数)
 * [279.完全平方数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0279(重要).完全平方数)
 * [326.3的幂](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0326.3的幂)
@@ -453,5 +458,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [384.打乱数组(洗牌算法)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0384.打乱数组)
 * [390.消除游戏](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0390.消除游戏)
 * [397.整数替换](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0397.整数替换)
+* [398.随机数索引(蓄水池)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0398.随机数索引)
+* [400.第N个数字](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0400.第N个数字)
 * [1414.和为K的最少斐波那契数字数目](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1414.和为K的最少斐波那契数字数目)
 * [LCP 02.分式化简](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/LCP%2002.分式化简)
