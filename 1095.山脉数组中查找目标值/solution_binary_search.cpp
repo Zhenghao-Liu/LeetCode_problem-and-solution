@@ -1,8 +1,8 @@
 /**
 * 在二分中倘若是缩小范围的的查找
 * while(left<right)
-* 对于分成[left,mid] [mid+1,left]的mid=left+(right-left)/2
-* 对于分成[left,mid-1] [right,mid]的mid=left+(right-left+1)/2
+* 对于分成[left,mid] [mid+1,right]的mid=left+(right-left)/2
+* 对于分成[left,mid-1] [mid,right]的mid=left+(right-left+1)/2
 */
 /**
  * // This is the MountainArray's API interface.
