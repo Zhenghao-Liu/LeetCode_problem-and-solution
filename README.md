@@ -302,6 +302,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [310.最小高度树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0310.最小高度树)
 * [331.验证二叉树的前序序列化](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0331(重要).验证二叉树的前序序列化)
 * [399.除法求值(并查集)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0399(重要).除法求值)
+* [404.左叶子之和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0404.左叶子之和)
 * [572.另一个树的子树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0572.另一个树的子树)
 
 #### (十三) 队列
@@ -320,6 +321,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [313.超级丑数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0313.超级丑数)
 * [373.查找和最小的K对数字](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0373.查找和最小的K对数字)
 * [402.移掉k位数字](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0402.移掉k位数字)
+* [407.接雨水II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0407.接雨水II)
 * [1417.重新格式化字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1417.重新格式化字符串)
 
 #### (十四) 迭代
@@ -413,6 +415,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [393.UTF-8编码验证](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0393.UTF-8编码验证)
 * [397.整数替换](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0397.整数替换)
 * [401.二进制手表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0401.二进制手表)
+* [405.数字转换为十六进制数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0405.数字转换为十六进制数)
 * [面试题56-I.数组中数字出现的次数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题56-I.数组中数字出现的次数)
 
 #### (二十) 链表
@@ -461,5 +464,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [397.整数替换](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0397.整数替换)
 * [398.随机数索引(蓄水池)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0398.随机数索引)
 * [400.第N个数字](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0400.第N个数字)
+* [405.数字转换为十六进制数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0405.数字转换为十六进制数)
+* [406.根据身高重建队列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0406.根据身高重建队列)
 * [1414.和为K的最少斐波那契数字数目](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1414.和为K的最少斐波那契数字数目)
 * [LCP 02.分式化简](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/LCP%2002.分式化简)
