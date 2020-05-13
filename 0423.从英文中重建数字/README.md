@@ -1,3 +1,5 @@
+* [官方题解](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/solution/cong-ying-wen-zhong-zhong-jian-shu-zi-by-leetcode/)
+
 给定一个**非空**字符串，其中包含字母顺序打乱的英文单词表示的数字```0-9```。按升序输出原始的数字。
 
 **注意:**
