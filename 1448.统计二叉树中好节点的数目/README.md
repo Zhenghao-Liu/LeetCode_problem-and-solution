@@ -6,7 +6,7 @@
 
 **示例 1：**
 
-![image1](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/1449.统计二叉树中好节点的数目/test_sample_1.png)
+![image1](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/1448.统计二叉树中好节点的数目/test_sample_1.png)
 
 ```
 输入：root = [3,1,4,3,null,1,5]
@@ -19,7 +19,7 @@
 ```
 **示例 2：**
 
-![image2](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/1449.统计二叉树中好节点的数目/test_sample_2.png)
+![image2](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/1448.统计二叉树中好节点的数目/test_sample_2.png)
 ```
 输入：root = [3,3,null,4,2]
 输出：3
