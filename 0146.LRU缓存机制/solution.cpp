@@ -1,57 +1,56 @@
-/*
-* 太懒了直接用了两个库类
-* 可以用双向哈希链表进行优化(java中是LinkedHashMap)
-*
-* LRU(Least Recently Used):该算法的思路是，发生缺页中断时，选择未使用时间最长的页面置换出去。
-* 可利用一个特殊的栈来保存当前使用的各个页面的页面号。
-* 每当进程访问某页面时，便将该页面的页面号从栈中移出，将它压入栈顶。
-* 因此，栈顶始终是最新被访问页面的编号，而栈底则是最近最久未使用页面的页面号
-* 当栈满时，还要新加入元素时，则栈底出栈，即最久未使用的退出。
-* 将新元素也要对应的压入栈顶
-* 采用了deque来实现该特殊的栈
-*/
 class LRUCache {
-private:
-    unordered_map<int,int> answer_map;
-    deque<int> use_times;
-    int maxsize;
+    //first为密匙
+    //second为数据值
+    //头部则最近使用
+    list<pair<int,int>> times;
+    //key为密匙
+    //value为对应在times中位置
+    unordered_map<int,list<pair<int,int>>::iterator> dict;
+    int max_size;
 public:
     LRUCache(int capacity) {
-        maxsize=capacity;
+        max_size=capacity;
     }
-    //读取数据，没有返回-1
+    
     int get(int key) {
-        if (answer_map.find(key)==answer_map.end())
+        if (dict.find(key)==dict.end())
             return -1;
         else
         {
-            use_times.erase(find(use_times.begin(),use_times.end(),key));
-            use_times.push_back(key);
-            return answer_map.at(key);
+            list<pair<int,int>>::iterator p=dict.at(key);
+            pair<int,int> data=*p;
+            times.erase(p);
+            times.push_front(data);
+            dict.at(key)=times.begin();
+            return data.second;
         }
     }
-    //写入数据
+    
     void put(int key, int value) {
-        //当key值已经存在时，注意可能key值对应的value刚好为-1的情况
-        if (get(key)!=-1 || answer_map.find(key)!=answer_map.end())
+        //key值已经存在
+        if (dict.find(key)!=dict.end())
         {
-            answer_map.at(key)=value;
-            return;
+            list<pair<int,int>>::iterator p=dict.at(key);
+            pair<int,int> data=*p;
+            data.second=value;
+            times.erase(p);
+            times.push_front(data);
+            dict.at(key)=times.begin();
         }
-        //未满时
-        if (use_times.size()!=maxsize)
+        //未超过最大容量时
+        else if (dict.size()!=max_size)
         {
-            use_times.push_back(key);
-            answer_map.insert({key,value});
+            times.push_front({key,value});
+            dict.insert({key,times.begin()});
         }
-        //满了的情况
+        //当前缓存已满
         else
         {
-            int delete_key=use_times.front();
-            use_times.pop_front();
-            answer_map.erase(delete_key);
-            answer_map.insert({key,value});
-            use_times.push_back(key);
+            pair<int,int> delete_data=times.back();
+            times.pop_back();
+            dict.erase(delete_data.first);
+            //偷懒
+            this->put(key,value);
         }
     }
 };
