@@ -1,3 +1,5 @@
+* [个人题解](https://leetcode-cn.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/solution/tan-xin-by-lzh_yves/)
+
 矩形蛋糕的高度为 ```h``` 且宽度为 ```w```，给你两个整数数组 ```horizontalCuts``` 和 ```verticalCuts```，其中 ```horizontalCuts[i]``` 是从矩形蛋糕顶部到第  ```i``` 个水平切口的距离，类似地， ```verticalCuts[j]``` 是从矩形蛋糕的左侧到第 ```j``` 个竖直切口的距离。
 
 请你按数组 ```horizontalCuts``` 和 ```verticalCuts``` 中提供的水平和竖直位置切割后，请你找出 **面积最大** 的那份蛋糕，并返回其 **面积** 。由于答案可能是一个很大的数字，因此需要将结果对 ```10^9 + 7``` 取余后返回。
