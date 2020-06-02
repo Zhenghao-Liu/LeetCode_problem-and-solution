@@ -21,7 +21,8 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [214.最短回文串(KMP中的prefix_table)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0214(重要).最短回文串)
 * [218.天际线问题(multiset)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0218.天际线问题)
 * [237.删除链表中的节点(不给头结点)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0237.删除链表中的节点)
-* [391.完美矩形(扫描线)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/391.完美矩形)
+* [391.完美矩形(扫描线)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0391.完美矩形)
+* [面试题64.求1+2+...+n](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题64.求1+2+...+n)
   
 ##### (一) 回溯
 * [37.解数独](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0037.(重要)解数独)
@@ -187,6 +188,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [441.排列硬币](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0441.排列硬币)
 * [447.回旋镖的数量](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0447.回旋镖的数量)
 * [453.最小移动次数使数组元素相等](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0453.最小移动次数使数组元素相等)
+* [458.可怜的小猪](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0458.可怜的小猪)
 * [1447.最简分数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1447.最简分数)
 * [1453.圆形靶内的最大飞镖数量](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1453.圆形靶内的最大飞镖数量)
 * [1457.二叉树中的伪回文路径](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1457.二叉树中的伪回文路径)
@@ -503,6 +505,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [401.二进制手表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0401.二进制手表)
 * [405.数字转换为十六进制数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0405.数字转换为十六进制数)
 * [421.数组中两个数的最大异或值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0421.数组中两个数的最大异或值)
+* [461.汉明距离](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0461.汉明距离)
 * [1371.每个元音包含偶数次的最长字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1371.每个元音包含偶数次的最长字符串)
 * [1442.形成两个异或相等数组的三元组数目](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1442.形成两个异或相等数组的三元组数目)
 * [面试题56-I.数组中数字出现的次数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题56-I.数组中数字出现的次数)
@@ -535,6 +538,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [460.LFU缓存](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0460.LFU缓存)
 
 #### (二十一) 贪心
+* [402.移掉k位数字](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0402.移掉k位数字)
 * [406.根据身高重建队列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0406.根据身高重建队列)
 * [435.无重叠区间](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0435.无重叠区间)
 * [452.用最少数量的箭引爆气球](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0452.用最少数量的箭引爆气球)
