@@ -1,67 +1,42 @@
-/**
-* 滑窗找到所有和为目标值的可能子数组
-* 但题目要求互不重叠，且是最小值，所以要存长度和上一个子数组的右边界
-* 因为题目说了所有数都是正数
-* 则重叠的情况下，即当前可能子数组的左边界小于等于上一个子数组的右边界
-  选择较短的一个子数组即可
-* 求完所有可能后，挑两个长度最小的即可
-*/
+//先把所有可能子数组区间存进来，借助multimap排序，来搜寻在不重叠下最小的数组和
 class Solution {
 public:
     int minSumOfLengths(vector<int>& arr, int target) {
         int arr_size=arr.size();
         int sum=0;
-        map<int,int> helper;
+        //first存长度，second存可能子数组的左边界
+        multimap<int,int> helper;
         int left=0;
         for (int i=0;i<arr_size;++i)
         {
             sum+=arr.at(i);
             if (sum>target)
-            {
                 while (left<=i && sum>target)
                 {
                     sum-=arr.at(left);
                     ++left;
                 }
-            }
             else if (sum<target)
-            {
                 continue;
-            }
-            //sum==target
             if (sum==target)
+                helper.insert({i-left+1,left});
+        }
+        int ans=INT_MAX;
+        for (auto i=helper.begin();i!=helper.end();++i)
+        {
+            //因为multimap有排序，可以剪枝
+            if (i->first*2>=ans)
+                break;
+            for (auto j=next(i,1);j!=helper.end();++j)
             {
-                int cur=i-left+1;
-                if (helper.empty())
-                {
-                    helper[i]=cur;
+                if (i->second<=j->second && i->second+i->first-1>=j->second)
                     continue;
-                }
-                auto p=helper.end();
-                --p;
-                if ((p->first)>=left)
-                {
-                    if (cur<(p->second))
-                    {
-                        helper.erase(p);
-                        helper[i]=cur;
-                    }
-                }
-                else
-                    helper[i]=cur;
+                if (i->second>=j->second && j->second+j->first-1>=i->second)
+                    continue;
+                ans=min(ans,i->first+j->first);
+                break;
             }
         }
-        if (helper.size()<2)
-            return -1;
-        priority_queue<int,vector<int>,less<int>> ans;
-        for (auto &i:helper)
-        {
-            ans.push(i.second);
-            if (ans.size()>2)
-                ans.pop();
-        }
-        int result=ans.top();
-        ans.pop();
-        return result+ans.top();
+        return ans==INT_MAX ? -1 : ans;
     }
 };
