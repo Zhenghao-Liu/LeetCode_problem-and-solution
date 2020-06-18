@@ -617,6 +617,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [196.删除重复的电子邮件](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0196.删除重复的电子邮件)
 * [197.上升的温度](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0197.上升的温度)
 * [595.大的国家](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0595.大的国家)
+* [596.超过5名学生的课](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0596.超过5名学生的课)
 * [620.有趣的电影](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0620.有趣的电影)
 * [626.换座位](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0626.换座位)
 * [627.交换工资](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0627.交换工资)
