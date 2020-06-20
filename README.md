@@ -23,6 +23,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [218.天际线问题(multiset)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0218.天际线问题)
 * [237.删除链表中的节点(不给头结点)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0237.删除链表中的节点)
 * [391.完美矩形(扫描线)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0391.完美矩形)
+* [1192.查找集群内的「关键连接」(tarjan)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1192.%20%E6%9F%A5%E6%89%BE%E9%9B%86%E7%BE%A4%E5%86%85%E7%9A%84%E3%80%8C%E5%85%B3%E9%94%AE%E8%BF%9E%E6%8E%A5%E3%80%8D)
 * [面试题64.求1+2+...+n](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题64.求1+2+...+n)
   
 ##### (一) 回溯/DFS/BFS
@@ -55,6 +56,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [464.我能赢吗](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0464.我能赢吗)
 * [472.连接词](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0472.连接词)
 * [473.火柴拼正方形](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0473.火柴拼正方形)
+* [1192.查找集群内的「关键连接」(tarjan)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1192.%20%E6%9F%A5%E6%89%BE%E9%9B%86%E7%BE%A4%E5%86%85%E7%9A%84%E3%80%8C%E5%85%B3%E9%94%AE%E8%BF%9E%E6%8E%A5%E3%80%8D)
 * [1415.长度为n的开心字符串中字典序第k小的字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1415.长度为n的开心字符串中字典序第k小的字符串)
 * [1436.旅行终点站](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1436.旅行终点站)
 * [1443.收集树上所有苹果的最少时间](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1443.收集树上所有苹果的最少时间)
@@ -160,7 +162,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [328.奇偶链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0328.奇偶链表)
 * [334.递增的三元子序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0334.递增的三元子序列)
 * [344.反转字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0344.反转字符串)
-* [345.反转字符串中的元音字母](ttps://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0345.反转字符串中的元音字母)
+* [345.反转字符串中的元音字母](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0345.反转字符串中的元音字母)
 * [349.两个数组的交集](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0349.两个数组的交集)
 * [350.两个数组的交集II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0350.两个数组的交集II)
 * [392.判断子序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0392.判断子序列)
@@ -455,6 +457,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [207.课程表(检测有向图有无环)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0207.课程表)
 * [210.课程表II(检测有向图有无环)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0210.课程表II)
 * [310.最小高度树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0310.最小高度树)
+* [1192.查找集群内的「关键连接」(tarjan)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1192.%20%E6%9F%A5%E6%89%BE%E9%9B%86%E7%BE%A4%E5%86%85%E7%9A%84%E3%80%8C%E5%85%B3%E9%94%AE%E8%BF%9E%E6%8E%A5%E3%80%8D)
 * [1443.收集树上所有苹果的最少时间](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1443.收集树上所有苹果的最少时间)
 * [1462.课程安排IV](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1462.课程安排IV)
 * [1466.重新规划路线](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1466.重新规划路线)
