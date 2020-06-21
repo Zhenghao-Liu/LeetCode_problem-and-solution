@@ -595,6 +595,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [1014.最佳观光组合](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1014.最佳观光组合)
 * [1414.和为K的最少斐波那契数字数目](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1414.和为K的最少斐波那契数字数目)
 * [1465.切割后面积最大的蛋糕](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1465.切割后面积最大的蛋糕)
+* [1488.避免洪水泛滥](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1488.避免洪水泛滥)
 
 #### (二十二) 并查集
 * [399.除法求值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0399(重要).除法求值)
