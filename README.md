@@ -56,6 +56,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [464.我能赢吗](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0464.我能赢吗)
 * [472.连接词](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0472.连接词)
 * [473.火柴拼正方形](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0473.火柴拼正方形)
+* [491.递增子序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0491.递增子序列)
 * [1192.查找集群内的「关键连接」(tarjan)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1192.%20%E6%9F%A5%E6%89%BE%E9%9B%86%E7%BE%A4%E5%86%85%E7%9A%84%E3%80%8C%E5%85%B3%E9%94%AE%E8%BF%9E%E6%8E%A5%E3%80%8D)
 * [1415.长度为n的开心字符串中字典序第k小的字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1415.长度为n的开心字符串中字典序第k小的字符串)
 * [1436.旅行终点站](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1436.旅行终点站)
@@ -119,6 +120,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [464.我能赢吗](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0464.我能赢吗)
 * [467.环绕字符串中唯一的子字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0467.环绕字符串中唯一的子字符串)
 * [474.一和零](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0474(重要).一和零)
+* [486.预测赢家](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0486.预测赢家)
 * [837.新21点](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0837.新21点)
 * [887.鸡蛋掉落](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0887.鸡蛋掉落)
 * [983.最低票价](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0983.最低票价)
@@ -179,6 +181,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [1446.连续字符](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1446.连续字符)
 * [1437.是否所有1都至少相隔k个元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1437.是否所有1都至少相隔k个元素)
 * [1470.重新排列数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1470.重新排列数组)
+* [面试题16.18.模式匹配](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题16.18.模式匹配)
 
 #### (四) 数学、前缀和
 * [41.缺失的第一个正数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0041.缺失的第一个正数)
@@ -220,6 +223,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [1480.一维数组的动态和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1480.一维数组的动态和)
 * [1483.树节点的第k个祖先](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1483.树节点的第k个祖先)
 * [LCP 02.分式化简](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/LCP%2002.分式化简)
+* [面试题16.18.模式匹配](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题16.18.模式匹配)
 
 #### (五) 折半查找/二分查找
 * [34.在排序数组中查找元素的第一个和最后一个位置](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0034.在排序数组中查找元素的第一个和最后一个位置)
@@ -307,6 +311,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [430.扁平化多级双向链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0430.扁平化多级双向链表)
 * [437.路径总和III](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0437.路径总和III)
 * [450.删除二叉搜索树中的节点](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0450.删除二叉搜索树中的节点)
+* [486.预测赢家](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0486.预测赢家)
 * [1028.从先序遍历还原二叉树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1028.从先序遍历还原二叉树)
 
 #### (八) 矩阵
@@ -413,6 +418,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [1448.统计二叉树中好节点的数目](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1448.统计二叉树中好节点的数目)
 * [1457.二叉树中的伪回文路径](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1457.二叉树中的伪回文路径)
 * [1483.树节点的第k个祖先](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1483.树节点的第k个祖先)
+* [1489.找到最小生成树里的关键边和伪关键边(mst笔记)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1489.找到最小生成树里的关键边和伪关键边)
 
 #### (十三) 队列
 * [102.二叉树的层次遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0102.二叉树的层次遍历)
@@ -600,6 +606,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 #### (二十二) 并查集
 * [399.除法求值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0399(重要).除法求值)
 * [990.等式方程的可满足性](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0990.等式方程的可满足性)
+* [1489.找到最小生成树里的关键边和伪关键边(mst笔记)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1489.找到最小生成树里的关键边和伪关键边)
 
 #### (二十三)Trie/字典树/前缀树
 * [211.添加与搜索单词 - 数据结构设计](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0211(重要).添加与搜索单词%20-%20数据结构设计)
@@ -618,10 +625,12 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [182.查找重复的电子邮件](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0182.查找重复的电子邮件)
 * [183.从不订购的客户](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0183.从不订购的客户)
 * [184.部门工资最高的员工](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0184.部门工资最高的员工)
+* [185.部门工资前三高的所有员工](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0185.部门工资前三高的所有员工)
 * [196.删除重复的电子邮件](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0196.删除重复的电子邮件)
 * [197.上升的温度](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0197.上升的温度)
 * [595.大的国家](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0595.大的国家)
 * [596.超过5名学生的课](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0596.超过5名学生的课)
+* [601.体育馆的人流量](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0601.体育馆的人流量)
 * [620.有趣的电影](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0620.有趣的电影)
 * [626.换座位](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0626.换座位)
 * [627.交换工资](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0627.交换工资)
