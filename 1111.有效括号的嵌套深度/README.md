@@ -1,3 +1,5 @@
+* [官方题解](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/solution/you-xiao-gua-hao-de-qian-tao-shen-du-by-leetcode-s/)
+
 **有效括号字符串** 定义：对于每个左括号，都能找到与之对应的右括号，反之亦然。详情参见题末**「有效括号字符串」**部分。
 
 **嵌套深度** ```depth``` 定义：即有效括号字符串嵌套的层数，```depth(A)``` 表示有效括号字符串 A 的嵌套深度。详情参见题末「**嵌套深度**」部分。
