@@ -1,4 +1,5 @@
-* [强推B站讲解线段树](https://www.bilibili.com/video/av47331849/)
+* [B站讲解线段树](https://www.bilibili.com/video/BV1cb411t7AM/)
+* [B站讲解树状数组](https://www.bilibili.com/video/BV1pE41197Qj/)
 
 给定一个整数数组  *nums*，求出数组从索引 i 到 j  (i ≤ j) 范围内元素的总和，包含 i,  j 两点。
 
