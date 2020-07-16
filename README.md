@@ -63,6 +63,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [522.最长特殊序列II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0522.最长特殊序列II)
 * [526.优美的排列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0526.优美的排列)
 * [529.扫雷游戏](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0529.扫雷游戏)
+* [785.判断二分图](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0785.判断二分图)
 * [1192.查找集群内的「关键连接」(tarjan)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1192.%20%E6%9F%A5%E6%89%BE%E9%9B%86%E7%BE%A4%E5%86%85%E7%9A%84%E3%80%8C%E5%85%B3%E9%94%AE%E8%BF%9E%E6%8E%A5%E3%80%8D)
 * [1415.长度为n的开心字符串中字典序第k小的字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1415.长度为n的开心字符串中字典序第k小的字符串)
 * [1436.旅行终点站](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1436.旅行终点站)
@@ -240,6 +241,8 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [507.完美数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0507.完美数)
 * [517.超级洗衣机](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0517.超级洗衣机)
 * [523.连续的子数组和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0523.连续的子数组和)
+* [537.负数乘法](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0537.负数乘法)
+* [539.最小时间差](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0539.最小时间差)
 * [1111.有效括号的嵌套深度](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1111.有效括号的嵌套深度)
 * [1447.最简分数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1447.最简分数)
 * [1453.圆形靶内的最大飞镖数量](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1453.圆形靶内的最大飞镖数量)
@@ -272,6 +275,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [475.供暖器](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0475.供暖器)
 * [480.滑动窗口中位数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0480.滑动窗口中位数)
 * [532.数组中的K-diff数对](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0532.数组中的K-diff数对)
+* [540.有序数组中的单一元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0540.有序数组中的单一元素)
 * [887.鸡蛋掉落](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0887.鸡蛋掉落)
 * [1095.山脉数组中查找目标值(笔记)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1095.山脉数组中查找目标值)
 * [1300.转变数组后最接近目标值的数组和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1300.转变数组后最接近目标值的数组和)
@@ -344,6 +348,8 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [486.预测赢家](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0486.预测赢家)
 * [501.二叉搜索树中的众数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0501.二叉搜索树中的众数)
 * [530.二叉搜索树的最小绝对差](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0530.二叉搜索树的最小绝对差)
+* [538.把二叉搜索树转换为累加树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0538.把二叉搜索树转换为累加树)
+* [543.二叉树的直径](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0543.二叉树的直径)
 * [1028.从先序遍历还原二叉树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1028.从先序遍历还原二叉树)
 
 #### (八) 矩阵
@@ -454,6 +460,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [513.找树左下角的值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0513.找树左下角的值)
 * [515.在每个树行中找最大值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0515.在每个树行中找最大值)
 * [530.二叉搜索树的最小绝对差](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0530.二叉搜索树的最小绝对差)
+* [538.把二叉搜索树转换为累加树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0538.把二叉搜索树转换为累加树)
 * [572.另一个树的子树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0572.另一个树的子树)
 * [1028.从先序遍历还原二叉树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1028.从先序遍历还原二叉树)
 * [1448.统计二叉树中好节点的数目](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1448.统计二叉树中好节点的数目)
@@ -496,6 +503,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [397.整数替换](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0397.整数替换)
 * [404.左叶子之和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0404.左叶子之和)
 * [430.扁平化多级双向链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0430.扁平化多级双向链表)
+* [538.把二叉搜索树转换为累加树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0538.把二叉搜索树转换为累加树)
 * [1028.从先序遍历还原二叉树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1028.从先序遍历还原二叉树)
 
 #### (十五) 图
@@ -554,6 +562,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [523.连续的子数组和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0523.连续的子数组和)
 * [525.连续数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0525.连续数组)
 * [532.数组中的K-diff数对](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0532.数组中的K-diff数对)
+* [535.IinyURL的加密与解密](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0535.IinyURL的加密与解密)
 * [560.和为k的子数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0560.和为k的子数组)
 * [1418.点菜展示表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1418.点菜展示表)
 * [1424.对角线遍历II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1424.对角线遍历II)
@@ -665,6 +674,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 
 #### (二十二) 并查集
 * [399.除法求值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0399(重要).除法求值)
+* [785.判断二分图](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0785.判断二分图)
 * [990.等式方程的可满足性](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0990.等式方程的可满足性)
 * [1489.找到最小生成树里的关键边和伪关键边(mst笔记)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1489.找到最小生成树里的关键边和伪关键边)
 
