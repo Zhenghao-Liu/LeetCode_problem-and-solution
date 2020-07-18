@@ -63,6 +63,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [522.最长特殊序列II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0522.最长特殊序列II)
 * [526.优美的排列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0526.优美的排列)
 * [529.扫雷游戏](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0529.扫雷游戏)
+* [547.朋友圈](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0547.朋友圈)
 * [785.判断二分图](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0785.判断二分图)
 * [1192.查找集群内的「关键连接」(tarjan)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1192.%20%E6%9F%A5%E6%89%BE%E9%9B%86%E7%BE%A4%E5%86%85%E7%9A%84%E3%80%8C%E5%85%B3%E9%94%AE%E8%BF%9E%E6%8E%A5%E3%80%8D)
 * [1415.长度为n的开心字符串中字典序第k小的字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1415.长度为n的开心字符串中字典序第k小的字符串)
@@ -131,6 +132,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [514.自由之路](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0514.自由之路)
 * [516.最长回文子序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0516.最长回文子序列)
 * [518.零钱兑换II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0518.零钱兑换II)
+* [546.移除盒子](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0546.移除盒子)
 * [718.最长重复子数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0718.最长重复子数组)
 * [837.新21点](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0837.新21点)
 * [887.鸡蛋掉落](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0887.鸡蛋掉落)
@@ -350,6 +352,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [530.二叉搜索树的最小绝对差](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0530.二叉搜索树的最小绝对差)
 * [538.把二叉搜索树转换为累加树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0538.把二叉搜索树转换为累加树)
 * [543.二叉树的直径](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0543.二叉树的直径)
+* [546.移除盒子](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0546.移除盒子)
 * [1028.从先序遍历还原二叉树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1028.从先序遍历还原二叉树)
 
 #### (八) 矩阵
@@ -674,6 +677,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 
 #### (二十二) 并查集
 * [399.除法求值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0399(重要).除法求值)
+* [547.朋友圈](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0547.朋友圈)
 * [785.判断二分图](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0785.判断二分图)
 * [990.等式方程的可满足性](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0990.等式方程的可满足性)
 * [1489.找到最小生成树里的关键边和伪关键边(mst笔记)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1489.找到最小生成树里的关键边和伪关键边)
