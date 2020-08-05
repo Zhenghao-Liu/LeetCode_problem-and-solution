@@ -16,25 +16,21 @@
  * };
  */
 class Solution {
-private:
-    unordered_map<TreeNode *,int> ans;
 public:
     int rob(TreeNode* root) {
-        return helper(root);
+        int* ans=helper(root);
+        return max(ans[0],ans[1]);
     }
-    int helper(TreeNode * node)
+    int * helper(TreeNode* root)
     {
-        if (node==NULL)
-            return 0;
-        if (ans.find(node)!=ans.end())
-            return ans.at(node);
-        int stole_this=node->val;
-        if (node->left!=NULL)
-            stole_this+=helper(node->left->left)+helper(node->left->right);
-        if (node->right!=NULL)
-            stole_this+=helper(node->right->left)+helper(node->right->right);
-        int not_stole_this=helper(node->left)+helper(node->right);
-        ans[node]=max(stole_this,not_stole_this);
-        return ans.at(node);
+        int *dp=new int[2];
+        dp[0]=dp[1]=0;
+        if (root==NULL)
+            return dp;
+        int *left=helper(root->left);
+        int *right=helper(root->right);
+        dp[0]=max(left[0],left[1])+max(right[0],right[1]);
+        dp[1]=root->val+left[0]+right[0];
+        return dp;
     }
 };
