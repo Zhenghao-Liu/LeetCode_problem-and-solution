@@ -77,6 +77,8 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [1462.课程安排IV](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1462.课程安排IV)
 * [1519.子树中标签相同的节点数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1519.子树中标签相同的节点数)
 * [1553.吃掉N个橘子的最少天数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1553.吃掉N个橘子的最少天数)
+* [1559.二维网格图中探测环](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1559.二维网格图中探测环)
+* [1563.石子游戏V](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1563.石子游戏V)
 * [LCP 07.传递信息](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/LCP%2007.传递信息)
 * [面试题13.机器人的运动范围](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题13.机器人的运动范围)
   
@@ -149,6 +151,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [647.回文子串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0647.回文子串)
 * [650.只有两个键的键盘](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0650.只有两个键的键盘)
 * [664.奇怪的打印机](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0664.奇怪的打印机)
+* [673.最长递增子序列的个数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0673.最长递增子序列的个数)
 * [718.最长重复子数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0718.最长重复子数组)
 * [837.新21点](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0837.新21点)
 * [887.鸡蛋掉落](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0887.鸡蛋掉落)
@@ -167,6 +170,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [1531.压缩字符串II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1531.压缩字符串II)
 * [1542.找出最长的超赞子字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1542.找出最长的超赞子字符串)
 * [1547.切棍子的最小成本](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1547.切棍子的最小成本)
+* [1563.石子游戏V](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1563.石子游戏V)
 * [LCP 09.最小跳跃次数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/LCP%2009.最小跳跃次数)
 * [面试题08.11.硬币](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题08.11.硬币)
 * [面试题17.13.恢复空格](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题17.13.恢复空格)
@@ -285,6 +289,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [650.只有两个键的键盘](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0650.只有两个键的键盘)
 * [657.机器人能否回到原点](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0657.机器人能否回到原点)
 * [667.优美的排列II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0667.优美的排列II)
+* [672.灯泡开关II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0672.灯泡开关II)
 * [1111.有效括号的嵌套深度](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1111.有效括号的嵌套深度)
 * [1447.最简分数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1447.最简分数)
 * [1453.圆形靶内的最大飞镖数量](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1453.圆形靶内的最大飞镖数量)
@@ -301,6 +306,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [1540.K次操作转变字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1540.K次操作转变字符串)
 * [1542.找出最长的超赞子字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1542.找出最长的超赞子字符串)
 * [1551.使数组中所有元素相等的最小操作数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1551.使数组中所有元素相等的最小操作数)
+* [1560.圆形赛道上经过次数最多的扇区](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1560.圆形赛道上经过次数最多的扇区)
 * [LCP 02.分式化简](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/LCP%2002.分式化简)
 * [面试题16.18.模式匹配](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题16.18.模式匹配)
 
@@ -327,6 +333,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [556.下一个跟大元素III](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0556.下一个跟大元素III)
 * [611.有效三角形的个数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0611.有效三角形的个数)
 * [646.最长数对链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0646.最长数对链表)
+* [668.乘法表中第k小的数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0668.乘法表中第k小的数)
 * [887.鸡蛋掉落](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0887.鸡蛋掉落)
 * [1095.山脉数组中查找目标值(笔记)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1095.山脉数组中查找目标值)
 * [1300.转变数组后最接近目标值的数组和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1300.转变数组后最接近目标值的数组和)
@@ -421,6 +428,8 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [653.两数之和IV-输入BST](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0653.两数之和IV-输入BST)
 * [654.最大二叉树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0654.最大二叉树)
 * [655.输出二叉树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0655.输出二叉树)
+* [669.修建二叉搜索树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0669.修建二叉搜索树)
+* [671.二叉树中第二小的节点](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0671.二叉树中第二小的节点)
 * [1028.从先序遍历还原二叉树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1028.从先序遍历还原二叉树)
 * [1530.好叶子节点对的数量](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1530.好叶子节点对的数量)
 * [1544.整理字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1544.整理字符串)
@@ -556,6 +565,8 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [654.最大二叉树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0654.最大二叉树)
 * [655.输出二叉树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0655.输出二叉树)
 * [662.二叉树最大深度](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0662.二叉树最大深度)
+* [669.修建二叉搜索树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0669.修建二叉搜索树)
+* [671.二叉树中第二小的节点](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0671.二叉树中第二小的节点)
 * [1028.从先序遍历还原二叉树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1028.从先序遍历还原二叉树)
 * [1448.统计二叉树中好节点的数目](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1448.统计二叉树中好节点的数目)
 * [1457.二叉树中的伪回文路径](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1457.二叉树中的伪回文路径)
@@ -616,6 +627,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [1466.重新规划路线](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1466.重新规划路线)
 * [1514.概率最大的路径(Dijkstra)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1514.概率最大的路径)
 * [1519.子树中标签相同的节点数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1519.子树中标签相同的节点数)
+* [1557.可以到达所有点的最少点数目](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1557.可以到达所有点的最少点数目)
 
 #### (十六) 映射/哈希表MAP
 * [1.两数之和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0001.两数之和)
@@ -731,6 +743,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [477.汉明距离总和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0477.汉明距离总和)
 * [575.分糖果](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0575.分糖果)
 * [645.错误的集合](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0645.错误的集合)
+* [672.灯泡开关II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0672.灯泡开关II)
 * [1371.每个元音包含偶数次的最长字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1371.每个元音包含偶数次的最长字符串)
 * [1442.形成两个异或相等数组的三元组数目](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1442.形成两个异或相等数组的三元组数目)
 * [1521.找到最接近目标值的函数值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1521.找到最接近目标值的函数值)
@@ -785,6 +798,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [649.Dota2参议院](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0649.Dota2参议院)
 * [659.分割数组为连续子序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0659.分割数组为连续子序列)
 * [665.非递减序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0665.非递减序列)
+* [670.最大交换](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0670.最大交换)
 * [1014.最佳观光组合](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1014.最佳观光组合)
 * [1414.和为K的最少斐波那契数字数目](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1414.和为K的最少斐波那契数字数目)
 * [1465.切割后面积最大的蛋糕](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1465.切割后面积最大的蛋糕)
@@ -799,6 +813,9 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [1537.最大得分](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1537.最大得分)
 * [1546.和为目标值的最大数目不重叠非空子数组数目](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1546.和为目标值的最大数目不重叠非空子数组数目)
 * [1551.使数组中所有元素相等的最小操作数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1551.使数组中所有元素相等的最小操作数)
+* [1558.得到目标数组的最少函数调用次数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1558.得到目标数组的最少函数调用次数)
+* [1561.你可以获得的最大硬币数目](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1561.你可以获得的最大硬币数目)
+* [1562.查找大小为M的最新分组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1562.查找大小为M的最新分组)
 
 #### (二十二) 并查集
 * [399.除法求值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0399(重要).除法求值)
@@ -806,6 +823,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [785.判断二分图](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0785.判断二分图)
 * [990.等式方程的可满足性](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0990.等式方程的可满足性)
 * [1489.找到最小生成树里的关键边和伪关键边(mst笔记)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1489.找到最小生成树里的关键边和伪关键边)
+* [1559.二维网格图中探测环](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1559.二维网格图中探测环)
 
 #### (二十三)Trie/字典树/前缀树
 * [211.添加与搜索单词 - 数据结构设计](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0211(重要).添加与搜索单词%20-%20数据结构设计)
