@@ -17,6 +17,7 @@
 解释：如下图所示，有 2 个用不同颜色标出来的环：
 ```
 ![image](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/1559.二维网格图中探测环/5482e11.png)
+
 **示例 2：**
 
 ![image](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/1559.二维网格图中探测环/5482e2.png)
