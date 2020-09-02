@@ -23,7 +23,7 @@
 **注意：**
 
 * ```s.length``` 在1到50,000之间。
-* ```s 只包含“0”或“1”字符。
+* ```s``` 只包含“0”或“1”字符。
 
 来源：力扣（LeetCode）
 链接：https://leetcode-cn.com/problems/count-binary-substrings
