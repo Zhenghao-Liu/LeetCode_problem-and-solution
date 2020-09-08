@@ -1,7 +1,9 @@
-﻿## LeetCode解题
+## LeetCode解题
 Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有小问题，统一改为 ```Tab和4size``` 即可  
 若有链接失效或有讨论或有添加，可在```Issuses```上告知
 ### https://leetcode-cn.com/u/lzh_yves
+### https://zhenghao-liu.blog.luogu.org
+### https://zhenghao-liu.github.io
 
 ##### (零) 独特算法
 * [28.实现strStr()(KMP)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0028.实现strStr%28%29)
@@ -163,6 +165,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [688."马"在棋盘上的概率](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0688.%E2%80%9C%E9%A9%AC%E2%80%9D%E5%9C%A8%E6%A3%8B%E7%9B%98%E4%B8%8A%E7%9A%84%E6%A6%82%E7%8E%87)
 * [689.三个无重叠子数组的最大和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0689.三个无重叠子数组的最大和)
 * [691.贴纸拼词](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0691.贴纸拼词)
+* [698.划分为k个相等的子集](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0698.划分为k个相等的子集)
 * [718.最长重复子数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0718.最长重复子数组)
 * [837.新21点](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0837.新21点)
 * [887.鸡蛋掉落](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0887.鸡蛋掉落)
@@ -183,6 +186,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [1547.切棍子的最小成本](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1547.切棍子的最小成本)
 * [1563.石子游戏V](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1563.石子游戏V)
 * [1567.乘积为正数的最长子数组长度](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1567.乘积为正数的最长子数组长度)
+* [1575.统计所有可行路径](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1575.统计所有可行路径)
 * [LCP 09.最小跳跃次数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/LCP%2009.最小跳跃次数)
 * [面试题08.11.硬币](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题08.11.硬币)
 * [面试题17.13.恢复空格](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题17.13.恢复空格)
@@ -248,6 +252,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [1470.重新排列数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1470.重新排列数组)
 * [1498.满足条件的子序列数目](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1498.满足条件的子序列数目)
 * [1537.最大得分](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1537.最大得分)
+* [1574.删除最短的子数组使剩余数组有序](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1574.删除最短的子数组使剩余数组有序)
 * [面试题16.18.模式匹配](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题16.18.模式匹配)
 
 #### (四) 数学
@@ -323,6 +328,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [1551.使数组中所有元素相等的最小操作数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1551.使数组中所有元素相等的最小操作数)
 * [1560.圆形赛道上经过次数最多的扇区](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1560.圆形赛道上经过次数最多的扇区)
 * [1569.将子数组重新排序得到同一个二叉查找树的方案数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1569.将子数组重新排序得到同一个二叉查找树的方案数)
+* [1573.分割字符串的方案数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1573.分割字符串的方案数)
 * [LCP 02.分式化简](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/LCP%2002.分式化简)
 * [面试题16.18.模式匹配](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题16.18.模式匹配)
 
@@ -350,6 +356,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [611.有效三角形的个数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0611.有效三角形的个数)
 * [646.最长数对链表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0646.最长数对链表)
 * [668.乘法表中第k小的数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0668.乘法表中第k小的数)
+* [704.二分查找](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0704.二分查找)
 * [887.鸡蛋掉落](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0887.鸡蛋掉落)
 * [1095.山脉数组中查找目标值(笔记)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1095.山脉数组中查找目标值)
 * [1300.转变数组后最接近目标值的数组和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1300.转变数组后最接近目标值的数组和)
@@ -449,6 +456,8 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [671.二叉树中第二小的节点](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0671.二叉树中第二小的节点)
 * [687.最长同值路径](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0687.最长同值路径)
 * [690.员工的重要性](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0690.员工的重要性)
+* [700.二叉搜索树中的搜索](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0700.二叉搜索树中的搜索)
+* [701.二叉树搜索中的插入操作](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0701.二叉树搜索中的插入操作)
 * [841.钥匙和房间](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0841.钥匙和房间)
 * [1028.从先序遍历还原二叉树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1028.从先序遍历还原二叉树)
 * [1530.好叶子节点对的数量](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1530.好叶子节点对的数量)
@@ -466,6 +475,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [378.有序矩阵中第K小的元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0378.有序矩阵中第K小的元素)
 * [542.01矩阵](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0542.01矩阵)
 * [566.重塑矩阵](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0566.重塑矩阵)
+* [1572.矩阵对角线元素的和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1572.矩阵对角线元素的和)
 * [面试题01.07.旋转矩阵](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题01.07.旋转矩阵)
 * [面试题13.机器人的运动范围](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题13.机器人的运动范围)
 * [面试题29.顺时针打印矩阵](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题29.顺时针打印矩阵)
@@ -505,6 +515,9 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [1477.找到两个和为目标值且不重叠的子数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1477.找到两个和为目标值且不重叠的子数组)
 * [1493.删除一个元素以后全为1的最长子数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1493.删除一个元素以后全为1的最长子数组)
 * [1513.仅含1的子串数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1513.仅含1的子串数)
+* [1573.分割字符串的方案数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1573.分割字符串的方案数)
+* [1574.删除最短的子数组使剩余数组有序](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1574.删除最短的子数组使剩余数组有序)
+* [1578.避免重复字母的最小删除成本](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1578.避免重复字母的最小删除成本)
 
 #### (十一) 二分法/分治
 * [4.寻找两个有序数组的中位数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0004.寻找两个有序数组的中位数)
@@ -591,6 +604,8 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [669.修建二叉搜索树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0669.修建二叉搜索树)
 * [671.二叉树中第二小的节点](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0671.二叉树中第二小的节点)
 * [687.最长同值路径](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0687.最长同值路径)
+* [700.二叉搜索树中的搜索](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0700.二叉搜索树中的搜索)
+* [701.二叉树搜索中的插入操作](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0701.二叉树搜索中的插入操作)
 * [1028.从先序遍历还原二叉树](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1028.从先序遍历还原二叉树)
 * [1448.统计二叉树中好节点的数目](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1448.统计二叉树中好节点的数目)
 * [1457.二叉树中的伪回文路径](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1457.二叉树中的伪回文路径)
@@ -653,8 +668,9 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [1514.概率最大的路径(Dijkstra)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1514.概率最大的路径)
 * [1519.子树中标签相同的节点数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1519.子树中标签相同的节点数)
 * [1557.可以到达所有点的最少点数目](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1557.可以到达所有点的最少点数目)
+* [1579.保证图可完全遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1579.保证图可完全遍历)
 
-#### (十六) 映射/哈希表MAP
+#### (十六) 映射/哈希表
 * [1.两数之和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0001.两数之和)
 * [30.串联所有单词的子串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0030.串联所有单词的子串)
 * [128.最长连续序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0128(重要).最长连续序列)
@@ -707,6 +723,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [676.实现一个魔法字典](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0676.实现一个魔法字典)
 * [677.键值映射](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0677.键值映射)
 * [692.前K个高频单词](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0692.前K个高频单词)
+* [705.设计哈希集合](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0705.设计哈希集合)
 * [1418.点菜展示表](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1418.点菜展示表)
 * [1424.对角线遍历II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1424.对角线遍历II)
 * [1477.找到两个和为目标值且不重叠的子数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1477.找到两个和为目标值且不重叠的子数组)
@@ -715,7 +732,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [1546.和为目标值的最大数目不重叠非空子数组数目](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1546.和为目标值的最大数目不重叠非空子数组数目)
 * [面试题17.13.恢复空格](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/面试题17.13.恢复空格)
 
-#### (十七) 集合SET
+#### (十七) 集合
 * [128.最长连续序列](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0128(重要).最长连续序列)
 * [136.只出现一次的数字](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0136.只出现一次的数字)
 * [137.只出现一次的数字II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0137.只出现一次的数字II)
@@ -739,6 +756,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [500.键盘行](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0500.键盘行)
 * [575.分糖果](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0575.分糖果)
 * [1436.旅行终点站](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1436.旅行终点站)
+* [1577.数的平方等于两数乘积的方法数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1577.数的平方等于两数乘积的方法数)
 
 #### (十八) 状态机(automaton)
 * [8.字符串转换整数(atoi)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0008.字符串转换整数(atoi))
@@ -773,6 +791,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [645.错误的集合](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0645.错误的集合)
 * [672.灯泡开关II](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0672.灯泡开关II)
 * [693.交替位二进制数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0693.交替位二进制数)
+* [698.划分为k个相等的子集](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0698.划分为k个相等的子集)
 * [1371.每个元音包含偶数次的最长字符串](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1371.每个元音包含偶数次的最长字符串)
 * [1442.形成两个异或相等数组的三元组数目](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1442.形成两个异或相等数组的三元组数目)
 * [1521.找到最接近目标值的函数值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1521.找到最接近目标值的函数值)
@@ -846,6 +865,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [1558.得到目标数组的最少函数调用次数](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1558.得到目标数组的最少函数调用次数)
 * [1561.你可以获得的最大硬币数目](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1561.你可以获得的最大硬币数目)
 * [1562.查找大小为M的最新分组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1562.查找大小为M的最新分组)
+* [1578.避免重复字母的最小删除成本](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1578.避免重复字母的最小删除成本)
 
 #### (二十二) 并查集
 * [399.除法求值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0399(重要).除法求值)
@@ -856,6 +876,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [990.等式方程的可满足性](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0990.等式方程的可满足性)
 * [1489.找到最小生成树里的关键边和伪关键边(mst笔记)](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1489.找到最小生成树里的关键边和伪关键边)
 * [1559.二维网格图中探测环](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1559.二维网格图中探测环)
+* [1579.保证图可完全遍历](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1579.保证图可完全遍历)
 
 #### (二十三)Trie/字典树/前缀树
 * [211.添加与搜索单词 - 数据结构设计](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0211(重要).添加与搜索单词%20-%20数据结构设计)
@@ -891,6 +912,7 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 
 #### (二十五)线段树Segment Tree
 * [307.区域和检索 - 数组可修改](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0307.区域和检索%20-%20数组可修改)
+* [699.掉落的方块](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0699.掉落的方块)
 * [1521.找到最接近目标值的函数值](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1521.找到最接近目标值的函数值)
 
 #### (二十六)树状数组BIT
@@ -927,5 +949,6 @@ Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有
 * [502.IPO](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0502.IPO)
 * [630.课程表III](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0630.课程表III)
 * [632.最小区间](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0632.最小区间)
+* [703.数据流中的第K大元素](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/0703.数据流中的第K大元素)
 * [1425.带限制的子序和](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1425.带限制的子序和)
 * [1438.绝对差不超过限制的最长连续子数组](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1438.绝对差不超过限制的最长连续子数组)
