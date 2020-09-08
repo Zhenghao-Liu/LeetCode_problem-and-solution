@@ -4,9 +4,14 @@
 #include <algorithm>
 #include <string>
 #include <chrono>
-#include "Tree_to_String.h"
-#include "show.h"
 #include <bits/stdc++.h>
+#include "show.h"
+#include "Tree_to_String.h"
+//#include "union_find.h"
+//#include "quick_pow.h"
+//#include "matrix_quick_pow.h"
+//#include "trie.h"
+//#include <random>
 //#include <stdexcept>
 //#include <list>
 //#include <iomanip>
@@ -29,24 +34,24 @@
 //#include <numeric>
 /*---------------------------------------*/
 using namespace std;
+typedef pair<int,int> pii;
+typedef long long ll;
 /*---------------------------------------*/
 
 /*---------------------------------------*/
 int main()
 {
-	using namespace std::chrono;
-	steady_clock::time_point t_begin = steady_clock::now();
-	/*---------------------------------------*/
+    using namespace std::chrono;
+    steady_clock::time_point t_begin = steady_clock::now();
+    /*---------------------------------------*/
 
-	
-	
-	/*---------------------------------------*/
-	steady_clock::time_point t_end = steady_clock::now();
-	duration<double> time_span = duration_cast<duration<double>>(t_end - t_begin);
-	cout << endl
-		 << "---------------------------------------" << endl;
-	cout << "It takes " << time_span.count() * 1000 << " ms.";
-	return 0;
+    /*---------------------------------------*/
+    steady_clock::time_point t_end = steady_clock::now();
+    duration<double> time_span = duration_cast<duration<double>>(t_end - t_begin);
+    cout << endl
+        << "---------------------------------------" << endl;
+    cout << "It takes " << time_span.count() * 1000 << " ms.";
+    return 0;
 }
 /*---------------------------------------*/
 
