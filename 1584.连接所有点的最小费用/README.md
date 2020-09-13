@@ -1,3 +1,7 @@
+* [最小生成树B站讲解](https://www.bilibili.com/video/BV1Eb41177d1/)
+* [推荐题解](https://leetcode-cn.com/problems/min-cost-to-connect-all-points/solution/zui-xiao-sheng-cheng-shu-primsuan-fa-by-kobe24o/)
+* [个人mst笔记](https://zhenghao-liu.blog.luogu.org/zui-xiao-sheng-cheng-shu-mst)
+
 给你一个```points``` 数组，表示 2D 平面上的一些点，其中 ```points[i] = [xi, yi]``` 。
 
 连接点 ```[xi, yi]``` 和点 ```[xj, yj]``` 的费用为它们之间的 **曼哈顿距离** ：```|xi - xj| + |yi - yj|``` ，其中 ```|val|``` 表示 ```val``` 的绝对值。
