@@ -1,4 +1,10 @@
 //为了大值的dp能借助小值的dp，先进行排序
+struct point
+{
+    int x;
+    int y;
+    int val;
+};
 class Solution {
 public:
     int longestIncreasingPath(vector<vector<int>>& matrix) {
@@ -6,30 +12,34 @@ public:
         if (row==0)
             return 0;
         int column=matrix.at(0).size();
-        vector<vector<int>> cache(row,vector<int>(column,0));
-        int ans=0;
+        vector<point> helper;
+        helper.reserve(row*column);
         for (int i=0;i<row;++i)
             for (int j=0;j<column;++j)
-                ans=max(ans,dfs(matrix,cache,row,column,i,j));
+                helper.push_back(point{i,j,matrix.at(i).at(j)});
+        sort(helper.begin(),helper.end(),[](const point &A,const point &B){return A.val<B.val;});
+        vector<vector<int>> dp(row,vector<int>(column,1));
+        int ans=1;
+        for (point &i:helper)
+        {
+            int x=i.x;
+            int y=i.y;
+            int val=i.val;
+            //左
+            if (y>0 && val>matrix.at(x).at(y-1) && dp.at(x).at(y-1)+1>dp.at(x).at(y))
+                dp.at(x).at(y)=dp.at(x).at(y-1)+1;
+            //上
+            if (x>0 && val>matrix.at(x-1).at(y) && dp.at(x-1).at(y)+1>dp.at(x).at(y))
+                dp.at(x).at(y)=dp.at(x-1).at(y)+1;
+            //右
+            if (y+1<column && val>matrix.at(x).at(y+1) && dp.at(x).at(y+1)+1>dp.at(x).at(y))
+                dp.at(x).at(y)=dp.at(x).at(y+1)+1;
+            //下
+            if (x+1<row && val>matrix.at(x+1).at(y) && dp.at(x+1).at(y)+1>dp.at(x).at(y))
+                dp.at(x).at(y)=dp.at(x+1).at(y)+1;
+            if (dp.at(x).at(y)>ans)
+                ans=dp.at(x).at(y);
+        }
         return ans;
-    }
-    int dfs(vector<vector<int>> & matrix,vector<vector<int>> & cache,const int &row,const int &column,int x,int y)
-    {
-        if (cache.at(x).at(y)!=0)
-            return cache.at(x).at(y);
-        //左
-        if (y>0 && matrix.at(x).at(y)>matrix.at(x).at(y-1))
-            cache.at(x).at(y)=max(cache.at(x).at(y),dfs(matrix,cache,row,column,x,y-1));
-        //上
-        if (x>0 && matrix.at(x).at(y)>matrix.at(x-1).at(y))
-            cache.at(x).at(y)=max(cache.at(x).at(y),dfs(matrix,cache,row,column,x-1,y));
-        //右
-        if (y+1<column && matrix.at(x).at(y)>matrix.at(x).at(y+1))
-            cache.at(x).at(y)=max(cache.at(x).at(y),dfs(matrix,cache,row,column,x,y+1));
-        //下
-        if (x+1<row && matrix.at(x).at(y)>matrix.at(x+1).at(y))
-            cache.at(x).at(y)=max(cache.at(x).at(y),dfs(matrix,cache,row,column,x+1,y));
-        ++cache.at(x).at(y);
-        return cache.at(x).at(y);
     }
 };
