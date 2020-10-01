@@ -1,0 +1,33 @@
+//类似于prim，但是在新边时候要加上之前经过边的总权值
+typedef pair<int,int> pii;
+class Solution {
+public:
+    int networkDelayTime(vector<vector<int>>& times, int N, int K) {
+        vector<vector<pii>> edges(N+1);
+        for (vector<int> &i:times)
+            edges.at(i.at(0)).push_back({i.at(1),i.at(2)});
+        vector<bool> vis(N+1,false);
+        int cnt=0;
+        int ans=0;
+        auto func=[](const pii &A,const pii &B)->bool{return A.second>B.second;};
+        priority_queue<pii,vector<pii>,decltype(func)> pq(func);
+        vis.at(K)=true;
+        ++cnt;
+        for (pii &i:edges.at(K))
+            pq.push(i);
+        while (cnt<N && !pq.empty())
+        {
+            auto [cur,val]=pq.top();
+            pq.pop();
+            if (vis.at(cur))
+                continue;
+            ++cnt;
+            vis.at(cur)=true;
+            ans=val;
+            for (auto &[nxt,nxt_val]:edges.at(cur))
+                if (!vis.at(nxt))
+                    pq.push({nxt,val+nxt_val});
+        }
+        return cnt==N ? ans : -1;
+    }
+};
