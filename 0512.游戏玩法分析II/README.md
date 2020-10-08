@@ -1,4 +1,4 @@
-[SQL架构](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/0521.游戏玩法分析II/PROBLEM.sql)
+[SQL架构](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/0512.游戏玩法分析II/PROBLEM.sql)
 
 Table: ```Activity```
 ```
