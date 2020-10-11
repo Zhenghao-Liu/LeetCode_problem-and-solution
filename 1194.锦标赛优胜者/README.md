@@ -1,7 +1,7 @@
 [SQL架构](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/1194.锦标赛优胜者/PROBLEM.sql)
 
 ```Players``` 玩家表
-
+```
 +-------------+-------+
 | Column Name | Type  |
 +-------------+-------+
