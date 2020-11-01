@@ -1,0 +1,153 @@
+//根据值做小顶堆，但是先把同行同列的值放进一个集合里(并查集)，这样丢进堆的时候，一个集合只用处理一个，维护每行每列中当前已填ans的最大值rmin、cmin，就可以获得新填的值
+class union_find
+{
+public:
+    vector<int> parent;
+    vector<int> rank;
+    union_find()
+    {
+        parent.clear();
+        rank.clear();
+    }
+    
+    union_find(int n)
+    {
+        parent=vector<int>(n);
+        rank=vector<int>(n,0);
+        init(n);
+    }
+
+    void init(int n)
+    {
+        for (int i=0;i<n;++i)
+        {
+            parent.at(i)=i;
+            rank.at(i)=0;
+        }
+    }
+
+    int find_root(int i)
+    {
+        if (parent.at(i)!=i)
+        {
+            int root=find_root(parent.at(i));
+            parent.at(i)=root;
+            return root;
+        }
+        return i;
+    }
+
+    bool union_vertices(int a,int b)
+    {
+        int a_root=find_root(a);
+        int b_root=find_root(b);
+        if (a_root==b_root)
+            return false;
+        if (rank.at(a_root)<rank.at(b_root))
+            parent.at(a_root)=b_root;
+        else
+        {
+            parent.at(b_root)=a_root;
+            if (rank.at(a_root)==rank.at(b_root))
+                ++rank.at(a_root);
+        }
+        return true;
+    }
+};
+const int MAXN=500;
+int rmin[MAXN];
+int cmin[MAXN];
+typedef pair<int,int> pii;
+class Solution {
+    int row,col;
+public:
+    vector<vector<int>> matrixRankTransform(vector<vector<int>>& matrix) {
+        int row=matrix.size();
+        int col=matrix.at(0).size();
+        this->row=row;
+        this->col=col;
+        int all=row*col;
+        union_find uf(all);
+        //将同行同列相同值的放入一个集合中
+        for (int i=0;i<row;++i)
+        {
+            unordered_map<int,vector<int>> repeat;
+            for (int j=0;j<col;++j)
+            {
+                int cur=matrix.at(i).at(j);
+                repeat[cur].push_back(get_idx(i,j));
+            }
+            for (auto &k:repeat)
+            {
+                int k_second_size=k.second.size();
+                for (int j=0;j<k_second_size-1;++j)
+                {
+                    int a=k.second.at(j);
+                    int b=k.second.at(j+1);
+                    uf.union_vertices(a,b);
+                }
+            }
+        }
+        for (int j=0;j<col;++j)
+        {
+            unordered_map<int,vector<int>> repeat;
+            for (int i=0;i<row;++i)
+            {
+                int cur=matrix.at(i).at(j);
+                repeat[cur].push_back(get_idx(i,j));
+            }
+            for (auto &k:repeat)
+            {
+                int k_second_size=k.second.size();
+                for (int i=0;i<k_second_size-1;++i)
+                {
+                    int a=k.second.at(i);
+                    int b=k.second.at(i+1);
+                    uf.union_vertices(a,b);
+                }
+            }
+        }
+        //--------------
+        unordered_map<int,vector<int>> uf_idx;
+        for (int i=0;i<all;++i)
+            uf_idx[uf.find_root(i)].push_back(i);
+        auto func=[col,&matrix](const int &A,const int &B)->bool{
+            return matrix.at(A/col).at(A%col)>matrix.at(B/col).at(B%col);
+        };
+        priority_queue<int,vector<int>,decltype(func)> pq(func);
+        for (auto &i:uf_idx)
+            pq.push(i.first);
+        memset(rmin,0,sizeof(rmin));
+        memset(cmin,0,sizeof(cmin));
+        vector<vector<int>> ans(row,vector<int>(col));
+        while (!pq.empty())
+        {
+            int idx_in_uf=pq.top();
+            pq.pop();
+            int res=INT_MIN;
+            for (int idx:uf_idx.at(idx_in_uf))
+            {
+                auto [x,y]=get_coo(idx);
+                res=max(res,rmin[x]);
+                res=max(res,cmin[y]);
+            }
+            res+=1;
+            for (int idx:uf_idx.at(idx_in_uf))
+            {
+                auto [x,y]=get_coo(idx);
+                ans.at(x).at(y)=res;
+                rmin[x]=res;
+                cmin[y]=res;
+            }
+        }
+        return ans;
+    }
+    int get_idx(int x,int y)
+    {
+        return x*col+y;
+    }
+    pii get_coo(int idx)
+    {
+        return {idx/col,idx%col};
+    }
+};
