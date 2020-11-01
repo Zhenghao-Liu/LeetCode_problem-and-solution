@@ -13,7 +13,7 @@
 **本人tips**:条件不是满足一项就退出，而是都要满足，条件1中的秩为1是最小值为1，或者说所有的秩都是正整数
 
 **示例 1：**
-![image](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/1632.矩阵转后的秩/1632_1.png)
+![image](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/1632.矩阵转后的秩/1632_1.jpg)
 ```
 输入：matrix = [[1,2],[3,4]]
 输出：[[1,2],[2,3]]
@@ -24,19 +24,19 @@ matrix[1][0] 的秩为 2 ，因为 matrix[1][0] > matrix[0][0] 且 matrix[0][0] 
 matrix[1][1] 的秩为 3 ，因为 matrix[1][1] > matrix[0][1]， matrix[1][1] > matrix[1][0] 且 matrix[0][1] 和 matrix[1][0] 的秩都为 2 。
 ```
 **示例 2：**
-![image](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/1632.矩阵转后的秩/1632_2.png)
+![image](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/1632.矩阵转后的秩/1632_2.jpg)
 ```
 输入：matrix = [[7,7],[7,7]]
 输出：[[1,1],[1,1]]
 ```
 **示例 3：**
-![image](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/1632.矩阵转后的秩/1632_3.png)
+![image](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/1632.矩阵转后的秩/1632_3.jpg)
 ```
 输入：matrix = [[20,-21,14],[-19,4,19],[22,-47,24],[-19,4,19]]
 输出：[[4,2,3],[1,3,4],[5,1,6],[1,3,4]]
 ```
 **示例 4：**
-![image](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/1632.矩阵转后的秩/1632_4.png)
+![image](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/1632.矩阵转后的秩/1632_4.jpg)
 ```
 输入：matrix = [[7,3,6],[1,4,5],[9,8,2]]
 输出：[[5,1,4],[1,2,3],[6,3,1]]
