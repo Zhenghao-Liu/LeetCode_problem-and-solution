@@ -22,7 +22,6 @@ public:
             pq.pop();
             ans.push_back({x,y});
         }
-        vector<int> v;
         return ans;
     }
 };
