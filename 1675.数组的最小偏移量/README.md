@@ -1,3 +1,6 @@
+* [推荐题解](https://leetcode-cn.com/problems/minimize-deviation-in-array/solution/you-xu-ji-he-you-xian-dui-lie-xun-huan-chu-li-by-m/)
+* [推荐题解](https://leetcode-cn.com/problems/minimize-deviation-in-array/solution/shu-zu-de-zui-xiao-pian-yi-liang-by-zerotrac2/)
+
 给你一个由 ```n``` 个正整数组成的数组 ```nums``` 。
 
 你可以对数组的任意元素执行任意次数的两类操作：
