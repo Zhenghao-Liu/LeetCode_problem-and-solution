@@ -1,3 +1,5 @@
+* [官方题解](https://leetcode-cn.com/problems/count-primes/solution/ji-shu-zhi-shu-by-leetcode-solution/)
+
 统计所有小于非负整数 n 的质数的数量。
 
 **示例:**
