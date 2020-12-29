@@ -1,7 +1,9 @@
 ## LeetCode解题
-Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有小问题，统一改为 ```Tab和4size``` 即可  
-若有链接失效或有讨论或有添加，可在```Issuses```上告知
-主要语言采用`cpp`、`mysql`，可能（随缘）有`java`、`python`、`go`
+
+* Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有小问题，统一改为 ```Tab和4size``` 即可  
+* 若有链接失效或有讨论或有添加，可在```Issuses```上告知
+* 主要语言采用`cpp`、`mysql`，偶尔有补充
+
 ### https://leetcode-cn.com/u/lzh_yves
 ### https://zhenghao-liu.blog.luogu.org
 ### https://zhenghao-liu.github.io
