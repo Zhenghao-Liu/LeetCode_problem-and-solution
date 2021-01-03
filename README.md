@@ -3,7 +3,7 @@
 * Tip:```vscode用的是tab,leetcode网页用的是4个空格```，缩进可能有小问题，统一改为 ```Tab和4size``` 即可  
 * 若有链接失效或有讨论或有添加，可在```Issuses```上告知
 * 主要语言采用`cpp`、`mysql`，偶尔有补充
-* 因为github只能限制1k个目录的原因，可能有些题目显示不出来，可以采用```git clone```，我后续会想办法解决
+* 因为github只能限制1k个目录的原因，可能有些题目显示不出来，可以采用```git clone```，或者在对题目的分类的md文件中按题搜索，后续会想办法解决
 
 ### https://leetcode-cn.com/u/lzh_yves
 ### https://zhenghao-liu.blog.luogu.org
