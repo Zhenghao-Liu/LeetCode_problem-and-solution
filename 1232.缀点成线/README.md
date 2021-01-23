@@ -6,14 +6,14 @@
 
 **示例 1：**
 
-* [img1](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1232.缀点成线/1232_1.jpg)
+![img1](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1232.缀点成线/1232_1.jpg)
 ```
 输入：coordinates = [[1,2],[2,3],[3,4],[4,5],[5,6],[6,7]]
 输出：true
 ```
 **示例 2：**
 
-* [img2](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1232.缀点成线/1232_2.jpg)
+![img2](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/tree/master/1232.缀点成线/1232_2.jpg)
 ```
 输入：coordinates = [[1,1],[2,2],[3,4],[4,5],[5,6],[7,7]]
 输出：false
