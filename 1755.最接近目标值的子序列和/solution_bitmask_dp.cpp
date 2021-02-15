@@ -10,7 +10,7 @@ public:
     int minAbsDifference(vector<int>& nums, int goal) {
         int sz=nums.size();
         if (sz==1) {
-            return abs(nums.at(0)-goal);
+            return min(abs(nums.at(0)-goal),abs(goal));
         }
         int mid=sz/2;
         vector<int> left(nums.begin(),nums.begin()+sz/2);
