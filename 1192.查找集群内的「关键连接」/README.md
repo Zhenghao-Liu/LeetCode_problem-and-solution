@@ -14,7 +14,7 @@
 
 **示例 1：**
 
-![image](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/1192.%20%E6%9F%A5%E6%89%BE%E9%9B%86%E7%BE%A4%E5%86%85%E7%9A%84%E3%80%8C%E5%85%B3%E9%94%AE%E8%BF%9E%E6%8E%A5%E3%80%8D/critical-connections-in-a-network.png)
+![image](https://github.com/Zhenghao-Liu/LeetCode_problem-and-solution/blob/master/1192.%E6%9F%A5%E6%89%BE%E9%9B%86%E7%BE%A4%E5%86%85%E7%9A%84%E3%80%8C%E5%85%B3%E9%94%AE%E8%BF%9E%E6%8E%A5%E3%80%8D/1192_1.png)
 
 ```
 输入：n = 4, connections = [[0,1],[1,2],[2,0],[1,3]]
